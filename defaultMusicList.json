@@ -1,0 +1,7041 @@
+{
+  "status" : 1,
+  "data" : {
+    "userid" : 611069763,
+    "listid" : 31,
+    "pagesize" : 300,
+    "count" : 67,
+    "list_ver" : 1,
+    "page" : 1,
+    "info" : [
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "78E0A0A9831228186ADEF7DFCC3E0212",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 165,
+        "remark" : "依然范特西",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "F83B8726303CDEA51ED2C41E71F22A10",
+            "file_type" : 0,
+            "end_byte" : 960123,
+            "offset_hash" : "B0BEABD8F5E6A28A659CE9AA9DF90115",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "A4BCD4AFA20E97C38C8C0377BBF0D86A",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "cid" : 2556401,
+          "appid_block" : "3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 1,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "16760",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6923153537625239552",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 64473826,
+        "timelen" : 209000,
+        "mvtrack" : 3,
+        "sort" : 1,
+        "collecttime" : 1655453767,
+        "privilege" : 10,
+        "audio_id" : 3895702,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "依然范特西",
+          "id" : 965291,
+          "publish" : 1
+        },
+        "hash" : "78E0A0A9831228186ADEF7DFCC3E0212",
+        "album_id" : "965291",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20170728\/20170728122746411503.jpg",
+        "rcflag" : 0,
+        "name" : "周杰伦 - 本草纲目",
+        "singerinfo" : [
+          {
+            "name" : "周杰伦",
+            "id" : 3520,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 64473826,
+        "size" : 3360173,
+        "relate_goods" : [
+          {
+            "size" : 3360173,
+            "hash" : "78E0A0A9831228186ADEF7DFCC3E0212",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8399644,
+            "hash" : "2E433E6C7D7A3F6B6C8D6DC3FFFD27E7",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 25200706,
+            "hash" : "F247384AB693C650DCC9625B672EE8B1",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 959
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "66C019A2B85F551DEA3A53D6E42AAF82",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "FE7960F1D85FE1A368BABED5552C0AC0",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 162,
+        "remark" : "南半球与北海道",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "01577291369AFAEA5B60AD411AB3BC90",
+          "musicpack_advance" : 0,
+          "display" : 8,
+          "classmap" : {
+            "attr0" : 235077640
+          },
+          "display_rate" : 3,
+          "cid" : 175221005
+        },
+        "audio_group_id" : "181223651",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6863820716759351296",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 343678336,
+        "timelen" : 209000,
+        "mvtrack" : 3,
+        "sort" : 2,
+        "collecttime" : 1654183964,
+        "privilege" : 8,
+        "audio_id" : 124308416,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "南半球与北海道",
+          "id" : 49683370,
+          "publish" : 1
+        },
+        "hash" : "FE7960F1D85FE1A368BABED5552C0AC0",
+        "album_id" : "49683370",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211020\/20211020100106467178.jpg",
+        "rcflag" : 0,
+        "name" : "范倪Liu - 南半球与北海道",
+        "singerinfo" : [
+          {
+            "name" : "范倪Liu",
+            "id" : 1167592,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 343678336,
+        "size" : 3360187,
+        "relate_goods" : [
+          {
+            "size" : 3360187,
+            "hash" : "FE7960F1D85FE1A368BABED5552C0AC0",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8399643,
+            "hash" : "F848FBE30B3D1E3E8C6F091D562A0056",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "9281032B72B83A673C360876293EADEB",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "557BBDCB431478AEBB544EEDAAFDC025",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 164,
+        "remark" : "《吃货宇宙》电影推广曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "F87D73F645AFC749F9D165272A412C6C",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "0284E4535F57B65BF0A99314A8B86664",
+            "file_type" : 0,
+            "end_byte" : 960131,
+            "offset_hash" : "2100786FF0323153CE714DAD924F3400",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 21561585
+        },
+        "audio_group_id" : "1350993",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6666983422203408384",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 53531299,
+        "timelen" : 209000,
+        "mvtrack" : 3,
+        "sort" : 3,
+        "collecttime" : 1655453721,
+        "privilege" : 10,
+        "audio_id" : 23605443,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "6415",
+          "id" : 1965558,
+          "publish" : 1
+        },
+        "hash" : "557BBDCB431478AEBB544EEDAAFDC025",
+        "album_id" : "1965558",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160909\/20160909034431506292.jpg",
+        "rcflag" : 1,
+        "name" : "南征北战NZBZ、米线 - 哈尼宝贝",
+        "singerinfo" : [
+          {
+            "name" : "南征北战NZBZ",
+            "id" : 92706,
+            "publish" : 1
+          },
+          {
+            "name" : "米线",
+            "id" : 5553,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 53531299,
+        "size" : 3349315,
+        "relate_goods" : [
+          {
+            "size" : 3349315,
+            "hash" : "557BBDCB431478AEBB544EEDAAFDC025",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8372975,
+            "hash" : "B510B4EA31A3DF27E313CCB83170F05C",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27687541,
+            "hash" : "809FF10CE74CC8D6FDF8BC111496DF06",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1058
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "70CFA362E4C5F10D2DBDF0F93AAACDF8",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "3337C18539D5BB00D8027D653D536A35",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 161,
+        "remark" : "你的答案",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "free_for_ad" : 32,
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_level" : 1,
+          "hash_multitrack" : "7DA79248320738CFD4E7597CF0B796CB",
+          "cpy_grade" : 20,
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 80096277
+        },
+        "audio_group_id" : "95308246",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6735131099519442944",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 228489373,
+        "timelen" : 219925,
+        "mvtrack" : 3,
+        "sort" : 4,
+        "collecttime" : 1649609304,
+        "privilege" : 8,
+        "audio_id" : 62298943,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "你的答案",
+          "id" : 32440418,
+          "publish" : 1
+        },
+        "hash" : "3337C18539D5BB00D8027D653D536A35",
+        "album_id" : "32440418",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200831\/20200831145501173343.jpg",
+        "rcflag" : 0,
+        "name" : "阿冗 - 你的答案",
+        "singerinfo" : [
+          {
+            "name" : "阿冗",
+            "id" : 808675,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 228489373,
+        "size" : 3519376,
+        "relate_goods" : [
+          {
+            "size" : 3519376,
+            "hash" : "3337C18539D5BB00D8027D653D536A35",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8798201,
+            "hash" : "28D8C0B9C692F0BD5AD82D25F1B41F13",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 25480152,
+            "hash" : "EA0977F8E63B5BFD1A846CA7821F1982",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 926
+          },
+          {
+            "size" : 48486915,
+            "hash" : "7A940CF063CC1FDEE18DA7805DB6400C",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1743
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "7B0CE9CDC260207173D429003B4F08E7",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "53C59250B5C87622A0444E389B7F6FCE",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 163,
+        "remark" : "白月光与朱砂痣",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 6,
+          "cpy_level" : 1,
+          "hash_multitrack" : "136CEE2015F2EB47443E82ABA0637128",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 127714988
+        },
+        "audio_group_id" : "136782060",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6876825120861134848",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 287916531,
+        "timelen" : 204000,
+        "mvtrack" : 3,
+        "sort" : 5,
+        "collecttime" : 1654997803,
+        "privilege" : 8,
+        "audio_id" : 90612188,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "白月光与朱砂痣",
+          "id" : 40872902,
+          "publish" : 1
+        },
+        "hash" : "53C59250B5C87622A0444E389B7F6FCE",
+        "album_id" : "40872902",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210108\/20210108140917812180.jpg",
+        "rcflag" : 0,
+        "name" : "大籽 - 白月光与朱砂痣",
+        "singerinfo" : [
+          {
+            "name" : "大籽",
+            "id" : 819356,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 287916531,
+        "size" : 3268648,
+        "relate_goods" : [
+          {
+            "size" : 3268648,
+            "hash" : "53C59250B5C87622A0444E389B7F6FCE",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8171310,
+            "hash" : "2B54CACE9374D4BB66B408D95D93E7E9",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 23128179,
+            "hash" : "50A1C1ABC8ED4A285E2367641A6CFD3C",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 905
+          },
+          {
+            "size" : 42738305,
+            "hash" : "D45ADBF8F2C1864738EA17CAFD042F97",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1673
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "A1A721D16DAEF856F5DC9F2689B5CF3F",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "F2E7E2EA86744B6511963A069C7CCB19",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 126,
+        "remark" : "《英雄联盟：双城之战 第1季》动画中文版主题曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "146C6C2942180AC848F481F561199012",
+          "appid_block" : "2906,3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 179077578
+        },
+        "audio_group_id" : "184786261",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6913514422140166144",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 348254775,
+        "timelen" : 256000,
+        "mvtrack" : 3,
+        "sort" : 6,
+        "collecttime" : 1647922438,
+        "privilege" : 8,
+        "audio_id" : 127845904,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "孤勇者",
+          "id" : 50223611,
+          "publish" : 1
+        },
+        "hash" : "F2E7E2EA86744B6511963A069C7CCB19",
+        "album_id" : "50223611",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211108\/20211108095904355171.jpg",
+        "rcflag" : 0,
+        "name" : "陈奕迅 - 孤勇者",
+        "singerinfo" : [
+          {
+            "name" : "陈奕迅",
+            "id" : 420,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 348254775,
+        "size" : 4097029,
+        "relate_goods" : [
+          {
+            "size" : 4097029,
+            "hash" : "F2E7E2EA86744B6511963A069C7CCB19",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10242283,
+            "hash" : "E7CA9EDC16D35B33DCA57735B4F5827B",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 28729042,
+            "hash" : "DAB4992FD972479813EA2678ED2DAE65",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 897
+          },
+          {
+            "size" : 49611712,
+            "hash" : "A865A09A814C068CA4615FCD0E966D18",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1550
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "491EDC0DED7D75F13E3A34DFBF537E40",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "207F49B5C9C7A06D29FC2CCCB3ACA7C6",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 155,
+        "remark" : "《热爱105°C的你》国语版",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "7831D44450B61E21138DC2C92CE9045D",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 72650294
+        },
+        "audio_group_id" : "62692155",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6804959990478282752",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 169604391,
+        "timelen" : 195000,
+        "mvtrack" : 3,
+        "sort" : 7,
+        "collecttime" : 1648194162,
+        "privilege" : 8,
+        "audio_id" : 56710438,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "热爱105°C的你",
+          "id" : 24199523,
+          "publish" : 1
+        },
+        "hash" : "207F49B5C9C7A06D29FC2CCCB3ACA7C6",
+        "album_id" : "24199523",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20190704\/20190704203621985673.jpg",
+        "rcflag" : 0,
+        "name" : "阿肆 - 热爱105°C的你",
+        "singerinfo" : [
+          {
+            "name" : "阿肆",
+            "id" : 91599,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 169604391,
+        "size" : 3126546,
+        "relate_goods" : [
+          {
+            "size" : 3126546,
+            "hash" : "207F49B5C9C7A06D29FC2CCCB3ACA7C6",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7816048,
+            "hash" : "33027637A5462E009E691B11CE8A6CB4",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 23344389,
+            "hash" : "F91A109BC7A71F26E39CC4800BE676D4",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 955
+          },
+          {
+            "size" : 39127536,
+            "hash" : "59E2AA40AFCB1B519E997E9CD67AFB4F",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1583
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "FF221A9189FCF4F9B3B9E11175F6F429",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "3ABC80CBFC69A07FD3B62DCDE079075E",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 107,
+        "remark" : "停留",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "3CB4D987FAFB6516E3412CF7F9B2F7CD",
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : 160208422
+        },
+        "audio_group_id" : "165771721",
+        "mvdata" : [
+          {
+            "id" : "6819210009796874240",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 325781993,
+        "timelen" : 141000,
+        "mvtrack" : 0,
+        "sort" : 8,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 112769087,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Stay (Explicit)",
+          "id" : 46498402,
+          "publish" : 1
+        },
+        "hash" : "3ABC80CBFC69A07FD3B62DCDE079075E",
+        "album_id" : "46498402",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210707\/20210707011403316035.jpg",
+        "rcflag" : 0,
+        "name" : "The Kid LAROI、Justin Bieber - STAY (Explicit)",
+        "singerinfo" : [
+          {
+            "name" : "The Kid LAROI",
+            "id" : 979525,
+            "publish" : 1
+          },
+          {
+            "name" : "Justin Bieber",
+            "id" : 27108,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 325781993,
+        "size" : 2270182,
+        "relate_goods" : [
+          {
+            "size" : 2270182,
+            "hash" : "3ABC80CBFC69A07FD3B62DCDE079075E",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 5675087,
+            "hash" : "2FBD4DCBD4BF5C8C9C4B939442AB374B",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 15662085,
+            "hash" : "D970BE81F16378040823AC710DA5446C",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 883
+          },
+          {
+            "size" : 29822512,
+            "hash" : "7C26AF1DB8D5BFBF10408B89A84B5879",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1681
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "FF41EB985998C2E453D5AC56A4BB477F",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 120,
+        "remark" : "跳舞的猴子",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "D42B9EAF102A8C558367B359ED0035D9",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "9734EEEAC1011C182E4C57CABCBCB1BF",
+            "file_type" : 0,
+            "end_byte" : 960185,
+            "offset_hash" : "32DB24F93FA7FBED2F2491C058B6D0A8",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 133293614
+        },
+        "audio_group_id" : "69875062",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6905448835197497344",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 294972499,
+        "timelen" : 209000,
+        "mvtrack" : 3,
+        "sort" : 9,
+        "collecttime" : 1647876469,
+        "privilege" : 10,
+        "audio_id" : 56028965,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Just Hits (Explicit)",
+          "id" : 41665027,
+          "publish" : 1
+        },
+        "hash" : "FF41EB985998C2E453D5AC56A4BB477F",
+        "album_id" : "41665027",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210205\/20210205134605131555.jpg",
+        "rcflag" : 1,
+        "name" : "Tones And I - Dance Monkey",
+        "singerinfo" : [
+          {
+            "name" : "Tones And I",
+            "id" : 948499,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 294972499,
+        "size" : 3352294,
+        "relate_goods" : [
+          {
+            "size" : 3352294,
+            "hash" : "FF41EB985998C2E453D5AC56A4BB477F",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8379932,
+            "hash" : "33540E94DF0C8E5DF15389FD1E205728",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 24854904,
+            "hash" : "F21A1B7E0FE77F1C10FE881FC4186B8D",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 949
+          },
+          {
+            "size" : 44809624,
+            "hash" : "3645FA6CC2D47220EEB18875FC0AD25A",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1708
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "081C76B2D8BE3AEE85423C483DA8F782",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "510B0CDB13BAE69BD690928B72EF7EA3",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 113,
+        "remark" : "编织梦想的大好时光",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "musicpack_advance" : 0,
+          "hash_multitrack" : "EF22376A7F7BA97F8D732411C6BBFE83",
+          "pay_block_tpl" : 1,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : -1
+        },
+        "audio_group_id" : "125769379",
+        "mixsongid" : 276725639,
+        "timelen" : 236000,
+        "mvtrack" : 0,
+        "sort" : 10,
+        "collecttime" : 1647852581,
+        "privilege" : 0,
+        "audio_id" : 83632108,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Good Day for Dreaming",
+          "id" : 39525535,
+          "publish" : 1
+        },
+        "hash" : "510B0CDB13BAE69BD690928B72EF7EA3",
+        "album_id" : "39525535",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20201009\/20201009110609971088.jpg",
+        "rcflag" : 0,
+        "name" : "Ruelle - Good Day for Dreaming",
+        "singerinfo" : [
+          {
+            "name" : "Ruelle",
+            "id" : 195134,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 276725639,
+        "size" : 3787818,
+        "relate_goods" : [
+          {
+            "size" : 3787818,
+            "hash" : "510B0CDB13BAE69BD690928B72EF7EA3",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9468737,
+            "hash" : "2E5B638B23F77E072FAF0F7C21A06D8D",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27675174,
+            "hash" : "B5E51ED402E37450B17E30AEF16A70F5",
+            "level" : 5,
+            "privilege" : 0,
+            "bitrate" : 935
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "D4CC45EF0CAAFB09A0B1E7F3A291EB30",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 151,
+        "remark" : "《NBA 2K13》游戏插曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "E6DD2444938F4B51A68426047EE60F27",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "9B2F81FBFE70A24FEFA4EF1A4A47491E",
+            "file_type" : 0,
+            "end_byte" : 960163,
+            "offset_hash" : "29F8A5A32C00EFFEA79D7307AC85CAE9",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 31901848
+        },
+        "audio_group_id" : "423277",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6808233156004470784",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 105645845,
+        "timelen" : 241000,
+        "mvtrack" : 3,
+        "sort" : 11,
+        "collecttime" : 1648086952,
+        "privilege" : 10,
+        "audio_id" : 705651,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Viva la Vida (生命万岁)",
+          "id" : 8270921,
+          "publish" : 1
+        },
+        "hash" : "D4CC45EF0CAAFB09A0B1E7F3A291EB30",
+        "album_id" : "8270921",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20170730\/20170730003008746803.jpg",
+        "rcflag" : 0,
+        "name" : "Coldplay - Viva La Vida",
+        "singerinfo" : [
+          {
+            "name" : "Coldplay",
+            "id" : 84037,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 105645845,
+        "size" : 3864272,
+        "relate_goods" : [
+          {
+            "size" : 3864272,
+            "hash" : "D4CC45EF0CAAFB09A0B1E7F3A291EB30",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9660321,
+            "hash" : "DC99E257393E723A209DC251911BB4DC",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27482171,
+            "hash" : "3665380FAB02AB7A9E2AA81DEECF7AF8",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 910
+          },
+          {
+            "size" : 86911896,
+            "hash" : "EE8A92C9D3E46DFC125ECF9E70F29188",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 2888
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "83E5EF308B0119F554A576A19506F734",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "20DEC4F3B77684CB8DEBA592B9FB5BE3",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 156,
+        "remark" : "我不怕",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "f0406727e8ca2e9e2b03328b923c4063",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "DA1DDA8DFB94BE57A4B647B4821576AF",
+            "file_type" : 0,
+            "end_byte" : 960213,
+            "offset_hash" : "958E3834C8896F912A1C78E817F6C5FB",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 5888716
+        },
+        "audio_group_id" : "3585780",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6807984145146241024",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 40000916,
+        "timelen" : 221000,
+        "mvtrack" : 3,
+        "sort" : 12,
+        "collecttime" : 1648459353,
+        "privilege" : 10,
+        "audio_id" : 682420,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Pure... Pop",
+          "id" : 1786247,
+          "publish" : 1
+        },
+        "hash" : "20DEC4F3B77684CB8DEBA592B9FB5BE3",
+        "album_id" : "1786247",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160908\/20160908223603915830.jpg",
+        "rcflag" : 1,
+        "name" : "Kelly Clarkson - Stronger (What Doesn't Kill You)",
+        "singerinfo" : [
+          {
+            "name" : "Kelly Clarkson",
+            "id" : 51501,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 40000916,
+        "size" : 3552525,
+        "relate_goods" : [
+          {
+            "size" : 3552525,
+            "hash" : "20DEC4F3B77684CB8DEBA592B9FB5BE3",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8880877,
+            "hash" : "F3DAACAF4C3958043AC0D7E77CA02ECC",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 29991467,
+            "hash" : "7C2C73176BF04E33085419533B91BC75",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1080
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "F078060FF92F28D40F969E22A32BDDC7",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "BA0D38F3E3443ABF4151F33979D1D84A",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 115,
+        "remark" : "过去的生活",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "musicpack_advance" : 0,
+          "hash_multitrack" : "2A472527310725399B3F1635143514DD",
+          "pay_block_tpl" : 1,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : -1
+        },
+        "audio_group_id" : "74036307",
+        "mvdata" : [
+          {
+            "id" : "6755765142040203264",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 187651136,
+        "timelen" : 153129,
+        "mvtrack" : 0,
+        "sort" : 13,
+        "collecttime" : 1647852581,
+        "privilege" : 0,
+        "audio_id" : 58223899,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Drowning EP",
+          "id" : 27132673,
+          "publish" : 1
+        },
+        "hash" : "BA0D38F3E3443ABF4151F33979D1D84A",
+        "album_id" : "27132673",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909124936190116.jpg",
+        "rcflag" : 0,
+        "name" : "Slushii - Past Lives",
+        "singerinfo" : [
+          {
+            "name" : "Slushii",
+            "id" : 555609,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 187651136,
+        "size" : 2450538,
+        "relate_goods" : [
+          {
+            "size" : 2450538,
+            "hash" : "BA0D38F3E3443ABF4151F33979D1D84A",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 6126280,
+            "hash" : "4FFE683317FC67D1FA47AD23315F39E8",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "8147B6784DA16D449EB7FC2406ED5AC4",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 158,
+        "remark" : "《玫瑰花床》电影主题曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "E86C225359CEB1924900D5325CB03A0E",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "7E03E003D46666ABAD154F54C6F65015",
+            "file_type" : 0,
+            "end_byte" : 960205,
+            "offset_hash" : "69DE6BBE4BE3C72B2DD842489DE38CB4",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 5925927
+        },
+        "audio_group_id" : "2586",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6777099976987049984",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 40279505,
+        "timelen" : 265000,
+        "mvtrack" : 3,
+        "sort" : 14,
+        "collecttime" : 1648599751,
+        "privilege" : 10,
+        "audio_id" : 508071,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Billboard Top Hits 1989",
+          "id" : 1825664,
+          "publish" : 1
+        },
+        "hash" : "8147B6784DA16D449EB7FC2406ED5AC4",
+        "album_id" : "1825664",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160908\/20160908185024627268.jpg",
+        "rcflag" : 0,
+        "name" : "Richard Marx - Right Here Waiting",
+        "singerinfo" : [
+          {
+            "name" : "Richard Marx",
+            "id" : 60030,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 40279505,
+        "size" : 4245075,
+        "relate_goods" : [
+          {
+            "size" : 4245075,
+            "hash" : "8147B6784DA16D449EB7FC2406ED5AC4",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10611582,
+            "hash" : "1ECFC934F6E8D43485BE3B344B6341F0",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27981251,
+            "hash" : "957E0A441B40306F8C2B8B9686298F5B",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 843
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "317A5B347ED6301C1BD3BC96FCBA033E",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "A03B438B1441BB525580A7E2B2E7F312",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 114,
+        "remark" : "The Darkness That You Fear",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "791A34F98DA25326AFE937E63D0BB692",
+          "appid_block" : "2906,3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 146796864
+        },
+        "audio_group_id" : "155222492",
+        "mvdata" : [
+          {
+            "typ" : 0
+          }
+        ],
+        "mixsongid" : 310170878,
+        "timelen" : 365000,
+        "mvtrack" : 3,
+        "sort" : 15,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 105575096,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "The Darkness That You Fear",
+          "id" : 43889478,
+          "publish" : 1
+        },
+        "hash" : "A03B438B1441BB525580A7E2B2E7F312",
+        "album_id" : "43889478",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210423\/20210423082402345710.jpg",
+        "rcflag" : 1,
+        "name" : "The Chemical Brothers - The Darkness That You Fear",
+        "singerinfo" : [
+          {
+            "name" : "The Chemical Brothers",
+            "id" : 85134,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 310170878,
+        "size" : 5856348,
+        "relate_goods" : [
+          {
+            "size" : 5856348,
+            "hash" : "A03B438B1441BB525580A7E2B2E7F312",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 14640387,
+            "hash" : "65F9F8176A7BC9186257290D458183DB",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "CC5508C98B0C2208DC38E44DA95B4EF7",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "A06B033B356BFC974C5245D0195086A5",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 127,
+        "remark" : "《成都》微电影主题曲",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "18A22BDA6C68B39C99F9664A890AF3E4",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 5973272
+        },
+        "audio_group_id" : "7770215",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6690936022096596992",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 40118502,
+        "timelen" : 328000,
+        "mvtrack" : 3,
+        "sort" : 16,
+        "collecttime" : 1647922498,
+        "privilege" : 8,
+        "audio_id" : 19863164,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "成都",
+          "id" : 1802652,
+          "publish" : 1
+        },
+        "hash" : "A06B033B356BFC974C5245D0195086A5",
+        "album_id" : "1802652",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220106\/20220106115450458720.jpg",
+        "rcflag" : 0,
+        "name" : "赵雷 - 成都",
+        "singerinfo" : [
+          {
+            "name" : "赵雷",
+            "id" : 3801,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 40118502,
+        "size" : 5255188,
+        "relate_goods" : [
+          {
+            "size" : 5255188,
+            "hash" : "A06B033B356BFC974C5245D0195086A5",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 13137690,
+            "hash" : "54B4D11BEE97EF4E262D04134B6CC7B6",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 32219780,
+            "hash" : "FB963A070CA850BEF1868F4F88CC6B85",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 784
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "F4A0CBA5A274059DCF4BDCBD87BA0802",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "C5384E964DD1A2F6DD6AA7C4CBA67F78",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 160,
+        "remark" : "《我要我们在一起》电影主题曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "87289A0E251D6389D07569ECD5CF524C",
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : 148217733
+        },
+        "audio_group_id" : "156901624",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6917474205179482112",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 312028231,
+        "timelen" : 285000,
+        "mvtrack" : 3,
+        "sort" : 17,
+        "collecttime" : 1648609872,
+        "privilege" : 8,
+        "audio_id" : 106703440,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "这世界那么多人",
+          "id" : 44349469,
+          "publish" : 1
+        },
+        "hash" : "C5384E964DD1A2F6DD6AA7C4CBA67F78",
+        "album_id" : "44349469",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210506\/20210506164001989932.jpg",
+        "rcflag" : 0,
+        "name" : "莫文蔚 - 这世界那么多人",
+        "singerinfo" : [
+          {
+            "name" : "莫文蔚",
+            "id" : 5546,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 312028231,
+        "size" : 4574807,
+        "relate_goods" : [
+          {
+            "size" : 4574807,
+            "hash" : "C5384E964DD1A2F6DD6AA7C4CBA67F78",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 11436431,
+            "hash" : "5A6350A5060EF4FBDE7B880B03B0F7DB",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 24414764,
+            "hash" : "58554644D5F3A2951B738F6ADF997EC6",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 683
+          },
+          {
+            "size" : 53638297,
+            "hash" : "EBF538EA010508000D826063166FC048",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1485
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "9761D6F95B8F156AD3E843739D1CE144",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "7A2671825220F368CE09850E104E47D2",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 121,
+        "remark" : "超赞",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "866AB1089C63AFB6E37592FA550B713D",
+            "file_type" : 0,
+            "end_byte" : 960219,
+            "offset_hash" : "88E2DA0B404C71F1E3EE2D72523C2902",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "appid_block" : "2906,3124",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 32956864
+        },
+        "audio_group_id" : "26765499",
+        "mvdata" : [
+          {
+            "id" : "6873247783028281344",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 107228124,
+        "timelen" : 242000,
+        "mvtrack" : 0,
+        "sort" : 18,
+        "collecttime" : 1647876572,
+        "privilege" : 10,
+        "audio_id" : 37761752,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Dura (Remix)",
+          "id" : 8506859,
+          "publish" : 1
+        },
+        "hash" : "7A2671825220F368CE09850E104E47D2",
+        "album_id" : "8506859",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210809\/20210809074007991792.jpg",
+        "rcflag" : 1,
+        "name" : "Daddy Yankee、Becky G、Bad Bunny、Natti Natasha - Dura (Remix)",
+        "singerinfo" : [
+          {
+            "name" : "Daddy Yankee",
+            "id" : 109402,
+            "publish" : 1
+          },
+          {
+            "name" : "Becky G",
+            "id" : 89476,
+            "publish" : 1
+          },
+          {
+            "name" : "Bad Bunny",
+            "id" : 602224,
+            "publish" : 1
+          },
+          {
+            "name" : "Natti Natasha",
+            "id" : 461860,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 107228124,
+        "size" : 3876031,
+        "relate_goods" : [
+          {
+            "size" : 3876031,
+            "hash" : "7A2671825220F368CE09850E104E47D2",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9689634,
+            "hash" : "D585AAA6AD939BFD04EA0BF9F74D0DEC",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 25139474,
+            "hash" : "70B383F70A2FDD607B810B621BFEE7BE",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 830
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "D614DED761860109BAAD2E81D7D8652F",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 59,
+        "remark" : "《夏至未至》电视剧插曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "279759A07297B85394E3A33A68235483",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 30274246
+        },
+        "audio_group_id" : "16713",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "1583172780",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 32177274,
+        "timelen" : 295419,
+        "mvtrack" : 3,
+        "sort" : 19,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 978244,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "我去2000年",
+          "id" : 975537,
+          "publish" : 1
+        },
+        "hash" : "D614DED761860109BAAD2E81D7D8652F",
+        "album_id" : "975537",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150719\/20150719023008457503.jpg",
+        "rcflag" : 0,
+        "name" : "朴树 - 那些花儿",
+        "singerinfo" : [
+          {
+            "name" : "朴树",
+            "id" : 2303,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 32177274,
+        "size" : 4727320,
+        "relate_goods" : [
+          {
+            "size" : 4727320,
+            "hash" : "D614DED761860109BAAD2E81D7D8652F",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 11817612,
+            "hash" : "B6CE7B9DD89B28B1B43A855CB5A05DF8",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 33011100,
+            "hash" : "E0EBB0925877D0A9E06CE14ACB35B5E0",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 893
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "F453C916FA5B38AC2BC7F7ABAB557FA5",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "DAA9732C81195DF32BD46D92E0DFC09E",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 111,
+        "remark" : "《美好年代》电视剧主题曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "45B989DDB32E8099D4C9F9A19DDE3FF0",
+            "file_type" : 0,
+            "end_byte" : 960545,
+            "offset_hash" : "22509779C70D093E72F1E0D056410A53",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "659706BFB6BC50CC1F96E13411571B2C",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "cid" : 2532472,
+          "appid_block" : "3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 1,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "3465",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6781091784334798848",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 27756874,
+        "timelen" : 289000,
+        "mvtrack" : 3,
+        "sort" : 20,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 347973,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "第二人生（明日版）",
+          "id" : 520409,
+          "publish" : 1
+        },
+        "hash" : "DAA9732C81195DF32BD46D92E0DFC09E",
+        "album_id" : "520409",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200620\/20200620081608910561.jpg",
+        "rcflag" : 0,
+        "name" : "五月天 - 干杯",
+        "singerinfo" : [
+          {
+            "name" : "五月天",
+            "id" : 8965,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 27756874,
+        "size" : 4626594,
+        "relate_goods" : [
+          {
+            "size" : 4626594,
+            "hash" : "DAA9732C81195DF32BD46D92E0DFC09E",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 11566179,
+            "hash" : "CCC679734019D9B26207E1C0B24230BA",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 36605795,
+            "hash" : "25A68F9F851F28D0394093F8712C0D53",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1012
+          },
+          {
+            "size" : 120777889,
+            "hash" : "7C1626EAE7BB1FA35B103BD6036AE1AF",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 3364
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "B3BD790C841A3DBCA21429CE68B856EE",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "D3339506782ED80C246E3836BC669193",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 159,
+        "remark" : "《世界这么大还是遇见你》国语版",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "C8ADA3B46765463DCA944E1E5059FD4D",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 85704426
+        },
+        "audio_group_id" : "103016779",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6680759742374977536",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 245907508,
+        "timelen" : 237400,
+        "mvtrack" : 3,
+        "sort" : 21,
+        "collecttime" : 1648609800,
+        "privilege" : 8,
+        "audio_id" : 65504138,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "清新的小女孩 (中文版)",
+          "id" : 35590292,
+          "publish" : 1
+        },
+        "hash" : "D3339506782ED80C246E3836BC669193",
+        "album_id" : "35590292",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210425\/20210425175910231100.jpg",
+        "rcflag" : 0,
+        "name" : "程响 - 世界这么大还是遇见你",
+        "singerinfo" : [
+          {
+            "name" : "程响",
+            "id" : 4442,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 245907508,
+        "size" : 3799053,
+        "relate_goods" : [
+          {
+            "size" : 3799053,
+            "hash" : "D3339506782ED80C246E3836BC669193",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9497024,
+            "hash" : "BCE0315DB6F42631248954475AF14B6F",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27240408,
+            "hash" : "528060B2AF75EBEC06F7777B9BC4E0F5",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 917
+          },
+          {
+            "size" : 49935620,
+            "hash" : "152981F72B386E792105A33BC4BDBB19",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1679
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "99970B8BB8FE397EE5987798A7DF1521",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "5ABB66A6DC60B0BC34DEB0AD1FF986F9",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 145,
+        "remark" : "《星曜计划》音乐企划",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "AC1DB4702EDC1E58808123CC66EA39B9",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 162466575
+        },
+        "audio_group_id" : "163321286",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6846011445882241024",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 329000770,
+        "timelen" : 252000,
+        "mvtrack" : 3,
+        "sort" : 22,
+        "collecttime" : 1648014731,
+        "privilege" : 8,
+        "audio_id" : 114819912,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "New Boy",
+          "id" : 47270034,
+          "publish" : 1
+        },
+        "hash" : "5ABB66A6DC60B0BC34DEB0AD1FF986F9",
+        "album_id" : "47270034",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210726\/20210726202418144223.jpg",
+        "rcflag" : 0,
+        "name" : "房东的猫 - New Boy",
+        "singerinfo" : [
+          {
+            "name" : "房东的猫",
+            "id" : 190508,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 329000770,
+        "size" : 4046095,
+        "relate_goods" : [
+          {
+            "size" : 4046095,
+            "hash" : "5ABB66A6DC60B0BC34DEB0AD1FF986F9",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10114826,
+            "hash" : "48BFE3508CBBA24B2A4B6AF0D6DB394E",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 33143067,
+            "hash" : "9E7A48E9C0C326391F2462399807CAD8",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1048
+          },
+          {
+            "size" : 53514773,
+            "hash" : "2817AAAF7B59C3E3CD6023A10CF95BF3",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1693
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "D9FF994E20F98B578EA049672B88BFB8",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "19CBAD0453420F7B11CACD2F61A122B6",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 122,
+        "remark" : "爱情故事",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "88D3E6388F02C6A5A9CF49F6D743FC36",
+            "file_type" : 0,
+            "end_byte" : 960165,
+            "offset_hash" : "6865C559780622E0B627CCFD0BBBA86D",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "B6680AF8A47014A486105C557981A473",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "cid" : 104513975,
+          "appid_block" : "2906,3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 1,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "16344",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6805053431161823232",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 262656755,
+        "timelen" : 236303,
+        "mvtrack" : 3,
+        "sort" : 23,
+        "collecttime" : 1647876599,
+        "privilege" : 10,
+        "audio_id" : 503442,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Pride Month (Explicit)",
+          "id" : 38240016,
+          "publish" : 1
+        },
+        "hash" : "19CBAD0453420F7B11CACD2F61A122B6",
+        "album_id" : "38240016",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200624\/20200624083503857783.jpg",
+        "rcflag" : 0,
+        "name" : "Taylor Swift - Love Story",
+        "singerinfo" : [
+          {
+            "name" : "Taylor Swift",
+            "id" : 34450,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 262656755,
+        "size" : 3781518,
+        "relate_goods" : [
+          {
+            "size" : 3781518,
+            "hash" : "19CBAD0453420F7B11CACD2F61A122B6",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9453434,
+            "hash" : "6BCCBBCE783AC89A1F539F24D4BCBD20",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 29552570,
+            "hash" : "5EE02EF08BD380D09B540FF9CF290DB0",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1000
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "D07799F434A0277CDA45D3AE7942349A",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "818F23A2031127AB9F9AA8AE119AB40B",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 128,
+        "remark" : "《摘星的你》微电影主题曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "E526E6BABCE32C15B2E53247C5D8E72A",
+            "file_type" : 0,
+            "end_byte" : 961075,
+            "offset_hash" : "1411FEB24FA79558A632B131DECA1A60",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "86A7D80D5D70F834A64804C773535BDC",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "cid" : 6817205,
+          "appid_block" : "3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 1,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "58893",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6696606684487532544",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 32054655,
+        "timelen" : 252220,
+        "mvtrack" : 3,
+        "sort" : 24,
+        "collecttime" : 1647922531,
+        "privilege" : 10,
+        "audio_id" : 104410,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "世界",
+          "id" : 961718,
+          "publish" : 1
+        },
+        "hash" : "818F23A2031127AB9F9AA8AE119AB40B",
+        "album_id" : "961718",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150719\/20150719010047203836.jpg",
+        "rcflag" : 0,
+        "name" : "逃跑计划 - 夜空中最亮的星",
+        "singerinfo" : [
+          {
+            "name" : "逃跑计划",
+            "id" : 84861,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 32054655,
+        "size" : 4036548,
+        "relate_goods" : [
+          {
+            "size" : 4036548,
+            "hash" : "818F23A2031127AB9F9AA8AE119AB40B",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10104168,
+            "hash" : "4EB69E99A44557EACAD8354AC2FE5235",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 29810818,
+            "hash" : "4619AAD40F96CF5B0EED79544B1EB897",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 944
+          },
+          {
+            "size" : 51101740,
+            "hash" : "75C703CE891B52D21166C25996F62196",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1620
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "2C979E89734F2AE4C6CF77AD3D941F18",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "887F89D09B10E2D30A14A817445F411D",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 153,
+        "remark" : "你知道我会去找你",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "F0EC42112215FBAB9492AEEAE29317C3",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 99255490
+        },
+        "audio_group_id" : "105424809",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6696731697656020992",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 256982468,
+        "timelen" : 298000,
+        "mvtrack" : 3,
+        "sort" : 25,
+        "collecttime" : 1648179975,
+        "privilege" : 8,
+        "audio_id" : 67571139,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "You Know I'll Go Get",
+          "id" : 37490973,
+          "publish" : 1
+        },
+        "hash" : "887F89D09B10E2D30A14A817445F411D",
+        "album_id" : "37490973",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909145106412049.jpg",
+        "rcflag" : 0,
+        "name" : "Rizky Ayuba、DJ Haning - You Know I'll Go Get",
+        "singerinfo" : [
+          {
+            "name" : "Rizky Ayuba",
+            "id" : 998865,
+            "publish" : 1
+          },
+          {
+            "name" : "DJ Haning",
+            "id" : 981202,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 256982468,
+        "size" : 4773391,
+        "relate_goods" : [
+          {
+            "size" : 4773391,
+            "hash" : "887F89D09B10E2D30A14A817445F411D",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 11933032,
+            "hash" : "5CD42D5C87723B7C3B9CDFEA4018F060",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 32609194,
+            "hash" : "8D7D7888AB470DE32604347DFC0F631D",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 874
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "0BD42249C2217BB132B0ABD9691F706E",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "5605427423A1E89443D11B4AFE3C87F2",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 136,
+        "remark" : "憔悴不堪",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "D8B9820D453EB10ACAC1CE4567AA1E09",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 7244171
+        },
+        "audio_group_id" : "9255601",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6685796356932857856",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 65252895,
+        "timelen" : 212000,
+        "mvtrack" : 3,
+        "sort" : 26,
+        "collecttime" : 1648013840,
+        "privilege" : 8,
+        "audio_id" : 19737044,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Faded",
+          "id" : 2657404,
+          "publish" : 1
+        },
+        "hash" : "5605427423A1E89443D11B4AFE3C87F2",
+        "album_id" : "2657404",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909123930583661.jpg",
+        "rcflag" : 1,
+        "name" : "Alan Walker、Iselin Solheim - Faded",
+        "singerinfo" : [
+          {
+            "name" : "Alan Walker",
+            "id" : 178240,
+            "publish" : 1
+          },
+          {
+            "name" : "Iselin Solheim",
+            "id" : 236030,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 65252895,
+        "size" : 3403271,
+        "relate_goods" : [
+          {
+            "size" : 3403271,
+            "hash" : "5605427423A1E89443D11B4AFE3C87F2",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8507094,
+            "hash" : "9004F471EB177751BE1D0E8FB683E300",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27001870,
+            "hash" : "F702C1818A1D54074AC5B7D44971EEC2",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1015
+          },
+          {
+            "size" : 77184510,
+            "hash" : "D5DDCBA37A3A38936F9011C7B9DCC61F",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 2909
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "9E7FCA4BE94830D4D82ECB8B120E3DAD",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "EE6817CF78EC2606A7AC3D3072FBA791",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 22,
+        "remark" : "《流浪地球》电影推广曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "5867E144BAF59748E5508A3CBAB714C9",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 57863620
+        },
+        "audio_group_id" : "37956339",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6769903156289740800",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 129773719,
+        "timelen" : 264000,
+        "mvtrack" : 3,
+        "sort" : 27,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 49857014,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "去流浪",
+          "id" : 14955908,
+          "publish" : 1
+        },
+        "hash" : "EE6817CF78EC2606A7AC3D3072FBA791",
+        "album_id" : "14955908",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20190131\/20190131144403252454.jpg",
+        "rcflag" : 0,
+        "name" : "周笔畅 - 去流浪",
+        "singerinfo" : [
+          {
+            "name" : "周笔畅",
+            "id" : 6812,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 129773719,
+        "size" : 4231612,
+        "relate_goods" : [
+          {
+            "size" : 4231612,
+            "hash" : "EE6817CF78EC2606A7AC3D3072FBA791",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10578741,
+            "hash" : "050DC5AD242DB1980933080485AD8A66",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 29281809,
+            "hash" : "8D5E61C370B04CEE68494B849865C981",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 885
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "4B7FB4ACE7A127CC20B02731361024EE",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "EAD10DC931A1102A10FDCD3665010322",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 154,
+        "remark" : "《我们相爱吧第1季》综艺",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "DCA60A853120B2802A1664216363E7D3",
+            "file_type" : 0,
+            "end_byte" : 960127,
+            "offset_hash" : "06FE57A4953DD5E7064A539412E43849",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "21A5B0EBB7B9330311E4A5106C8234DD",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "cid" : 2556466,
+          "appid_block" : "3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 1,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "108",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6866552169291010048",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 32042819,
+        "timelen" : 253000,
+        "mvtrack" : 3,
+        "sort" : 28,
+        "collecttime" : 1648194135,
+        "privilege" : 10,
+        "audio_id" : 328215,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "魔杰座",
+          "id" : 960399,
+          "publish" : 1
+        },
+        "hash" : "EAD10DC931A1102A10FDCD3665010322",
+        "album_id" : "960399",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909135350181905.jpg",
+        "rcflag" : 0,
+        "name" : "周杰伦 - 给我一首歌的时间",
+        "singerinfo" : [
+          {
+            "name" : "周杰伦",
+            "id" : 3520,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 32042819,
+        "size" : 4058169,
+        "relate_goods" : [
+          {
+            "size" : 4058169,
+            "hash" : "EAD10DC931A1102A10FDCD3665010322",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10144645,
+            "hash" : "579F2091886000E0413A979CF2A4C999",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 31541731,
+            "hash" : "19609D0B5271E730D378AD79BA0171DA",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 994
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "00294128918F6D0869D3F89148594345",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "22EA2BF832DF3A0E28890612DF6CE015",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 21,
+        "remark" : "神的孩子都在跳舞",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "4323D5DCD98C463C7801DF7D2AFAC92C",
+          "appid_block" : "3124,2910,2960,2966,3086,3004,3022,3056",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 235016200
+          },
+          "display" : 40,
+          "display_rate" : 2,
+          "cid" : 22131298
+        },
+        "audio_group_id" : "201",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "1571135280",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 39930764,
+        "timelen" : 261000,
+        "mvtrack" : 3,
+        "sort" : 29,
+        "collecttime" : 1647852581,
+        "privilege" : 0,
+        "audio_id" : 297346,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "神的孩子都在跳舞",
+          "id" : 27779,
+          "publish" : 1
+        },
+        "hash" : "22EA2BF832DF3A0E28890612DF6CE015",
+        "album_id" : "27779",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150716\/20150716003641324440.jpg",
+        "rcflag" : 0,
+        "name" : "五月天 - 倔强",
+        "singerinfo" : [
+          {
+            "name" : "五月天",
+            "id" : 8965,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 39930764,
+        "size" : 4187317,
+        "relate_goods" : [
+          {
+            "size" : 4187317,
+            "hash" : "22EA2BF832DF3A0E28890612DF6CE015",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10467949,
+            "hash" : "8C1FCED7C537BD738875D6DD454D2E4F",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          },
+          {
+            "size" : 32316764,
+            "hash" : "C690109DB1CA09FA30480E184E3F6BC9",
+            "level" : 5,
+            "privilege" : 0,
+            "bitrate" : 987
+          },
+          {
+            "size" : 110904661,
+            "hash" : "1F5B65EC78AF3DE6EFFCCBCCE1406AFA",
+            "level" : 6,
+            "privilege" : 0,
+            "bitrate" : 3387
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "54A45EBEEB63AB0812DB2DFC6C82752A",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "885D96A20CACAFE43A4FF20D1AF2D98C",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 146,
+        "remark" : "怪兽",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "0E9912EFD574D2CC2CEAE5B9C0C48773",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "99AE78776D5305E6BEB85514D76BC21A",
+            "file_type" : 0,
+            "end_byte" : 960149,
+            "offset_hash" : "2CE143B050BAE4B3E352F3BF45FF0977",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 45390176
+        },
+        "audio_group_id" : "1275629",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6735441392598441984",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 29134391,
+        "timelen" : 217000,
+        "mvtrack" : 3,
+        "sort" : 30,
+        "collecttime" : 1648014749,
+        "privilege" : 10,
+        "audio_id" : 2605894,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Monsters",
+          "id" : 646623,
+          "publish" : 1
+        },
+        "hash" : "885D96A20CACAFE43A4FF20D1AF2D98C",
+        "album_id" : "646623",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210113\/20210113052508962534.jpg",
+        "rcflag" : 0,
+        "name" : "Katie Sky - Monsters",
+        "singerinfo" : [
+          {
+            "name" : "Katie Sky",
+            "id" : 158189,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 29134391,
+        "size" : 3486841,
+        "relate_goods" : [
+          {
+            "size" : 3486841,
+            "hash" : "885D96A20CACAFE43A4FF20D1AF2D98C",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8716446,
+            "hash" : "825E4559848A8C045C8938F720681424",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27866862,
+            "hash" : "AE78CFD88C86B7F685A175A9627440E5",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1023
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "69A1D4528559D46F8634CD8E026A742F",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "3136CC973F70DCFF711F82BF43AC094A",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 133,
+        "remark" : "《芒种》国语版",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "1D14E208068921299973279330011082",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 71220571
+        },
+        "audio_group_id" : "56122821",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6762546689211219968",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 252666919,
+        "timelen" : 216032,
+        "mvtrack" : 3,
+        "sort" : 31,
+        "collecttime" : 1647937732,
+        "privilege" : 8,
+        "audio_id" : 55521341,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "二十四节气",
+          "id" : 36895840,
+          "publish" : 1
+        },
+        "hash" : "3136CC973F70DCFF711F82BF43AC094A",
+        "album_id" : "36895840",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200403\/20200403112615663119.jpg",
+        "rcflag" : 0,
+        "name" : "音阙诗听、赵方婧 - 芒种",
+        "singerinfo" : [
+          {
+            "name" : "音阙诗听",
+            "id" : 580287,
+            "publish" : 1
+          },
+          {
+            "name" : "赵方婧",
+            "id" : 532414,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 252666919,
+        "size" : 3457140,
+        "relate_goods" : [
+          {
+            "size" : 3457140,
+            "hash" : "3136CC973F70DCFF711F82BF43AC094A",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8642551,
+            "hash" : "CE8DBC56E9F835C05164B700EB4C6DFB",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 21883879,
+            "hash" : "C90ABF408BF4D5C7EDBEE03C8EED39A2",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 810
+          },
+          {
+            "size" : 43264892,
+            "hash" : "609264A44666FD5C93A72E5EAF6708AB",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1602
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "B0ABDDB3BE97F48F39E7B554896954C0",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "59B0BA529A5981A2CB096588C5CC208B",
+            "pay_type" : 1
+          }
+        ],
+        "fileid" : 119,
+        "remark" : "回忆",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "70026AF638CBCA20CDAFFD78EF669DA3",
+            "file_type" : 0,
+            "end_byte" : 960931,
+            "offset_hash" : "096043B94F5116720BBAC94FD5C2973A",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "41AA2AFBDE6DE391627A19FBB7870328",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "cid" : 154292819,
+          "appid_block" : "2906,3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 1,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "85944271",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6847357988975525888",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 318943117,
+        "timelen" : 191555,
+        "mvtrack" : 3,
+        "sort" : 32,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 59901181,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "JORDI (Deluxe) [Explicit]",
+          "id" : 45492256,
+          "publish" : 1
+        },
+        "hash" : "59B0BA529A5981A2CB096588C5CC208B",
+        "album_id" : "45492256",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210611\/20210611092402831615.jpg",
+        "rcflag" : 0,
+        "name" : "Maroon 5 - Memories",
+        "singerinfo" : [
+          {
+            "name" : "Maroon 5",
+            "id" : 84607,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 318943117,
+        "size" : 3065356,
+        "relate_goods" : [
+          {
+            "size" : 3065356,
+            "hash" : "59B0BA529A5981A2CB096588C5CC208B",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7582037,
+            "hash" : "4E2D81BAADA846C9B8A02D2A965716DD",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 17855993,
+            "hash" : "6D8C54BD12CD8857E507A3070038C5EA",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 745
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "A54DFA0D787DEB4C8984873C8052358D",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "62CF62C42D3739EF72FE64EFBA3F4ED2",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 135,
+        "remark" : "那个女孩",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "7AACFF44F259182D14AC266E8FCCEE3B",
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : 6007549
+        },
+        "audio_group_id" : "9303650",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6692249715230834688",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 40242122,
+        "timelen" : 176000,
+        "mvtrack" : 3,
+        "sort" : 33,
+        "collecttime" : 1648013816,
+        "privilege" : 8,
+        "audio_id" : 23643661,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "24 HRS",
+          "id" : 1820815,
+          "publish" : 1
+        },
+        "hash" : "62CF62C42D3739EF72FE64EFBA3F4ED2",
+        "album_id" : "1820815",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909133730208837.jpg",
+        "rcflag" : 0,
+        "name" : "Olly Murs - That Girl",
+        "singerinfo" : [
+          {
+            "name" : "Olly Murs",
+            "id" : 84083,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 40242122,
+        "size" : 2828989,
+        "relate_goods" : [
+          {
+            "size" : 2828989,
+            "hash" : "62CF62C42D3739EF72FE64EFBA3F4ED2",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7072111,
+            "hash" : "534A54967DAEE011D35A650028183BF8",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 21253116,
+            "hash" : "628B545535B58BCD245C67D8F944F921",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 961
+          },
+          {
+            "size" : 36807376,
+            "hash" : "B87C1518EF4AB1525E565E7B70697503",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1665
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "E295368B9060AACA3E1EB023E0ACAC2C",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "2FFA623ADFDB60AA569636E80CC79092",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 132,
+        "remark" : "《狂野目标》电影插曲",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "2C0D16D89D3EC5DCA5CB24940E18DF64",
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : 32629523
+        },
+        "audio_group_id" : "18114",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6760794944399327232",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 112376217,
+        "timelen" : 225000,
+        "mvtrack" : 3,
+        "sort" : 34,
+        "collecttime" : 1647937422,
+        "privilege" : 8,
+        "audio_id" : 695501,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Yael Naïm",
+          "id" : 9040475,
+          "publish" : 1
+        },
+        "hash" : "2FFA623ADFDB60AA569636E80CC79092",
+        "album_id" : "9040475",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160908\/20160908060345658712.jpg",
+        "rcflag" : 0,
+        "name" : "Yael Naim - New Soul",
+        "singerinfo" : [
+          {
+            "name" : "Yael Naim",
+            "id" : 67369,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 112376217,
+        "size" : 3603036,
+        "relate_goods" : [
+          {
+            "size" : 3603036,
+            "hash" : "2FFA623ADFDB60AA569636E80CC79092",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9007248,
+            "hash" : "6D389C8E2629A7B0C65D867B63D87AC3",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 23197156,
+            "hash" : "37AAAA9228E0D6B959D47C8CBD2BD8B6",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 824
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "D945079D740D530CC6B8E2893C98A098",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "50B497ED79317F2B9639E71A4EBEE446",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 143,
+        "remark" : "巴拿马",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "C670FB71C353C63F5297CAEAEB0A1628",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "B0D1ED74B6A10FB5608B9C1D2D41C926",
+            "file_type" : 0,
+            "end_byte" : 960135,
+            "offset_hash" : "EFA43E4834CEE78D1CB5EF6F84CAC654",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 15391215
+        },
+        "audio_group_id" : "1428598",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6757117966669959168",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 30770291,
+        "timelen" : 200000,
+        "mvtrack" : 3,
+        "sort" : 35,
+        "collecttime" : 1648014641,
+        "privilege" : 10,
+        "audio_id" : 11868072,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Panama",
+          "id" : 821377,
+          "publish" : 1
+        },
+        "hash" : "50B497ED79317F2B9639E71A4EBEE446",
+        "album_id" : "821377",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210112\/20210112145849992362.jpg",
+        "rcflag" : 1,
+        "name" : "Matteo - Panama",
+        "singerinfo" : [
+          {
+            "name" : "Matteo",
+            "id" : 155781,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 30770291,
+        "size" : 3212646,
+        "relate_goods" : [
+          {
+            "size" : 3212646,
+            "hash" : "50B497ED79317F2B9639E71A4EBEE446",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8031297,
+            "hash" : "A4E863CFCF10369B703B1C4015945AE6",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 24697866,
+            "hash" : "BD064D4AB9FDCA59A1FDED8821EFFEF4",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 984
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "BF3C5ECD2D7B391FF2DA651C5792E65F",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "E09A1FC02F87467D029E122626A7613A",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 20,
+        "remark" : "",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "musicpack_advance" : 0,
+          "hash_multitrack" : "9C2D409558F88AC8E1371BE1F9538036",
+          "pay_block_tpl" : 1,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : -1
+        },
+        "audio_group_id" : "37643406",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6789859886400507904",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 129748226,
+        "timelen" : 297560,
+        "mvtrack" : 3,
+        "sort" : 36,
+        "collecttime" : 1647852581,
+        "privilege" : 0,
+        "audio_id" : 50199692,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "",
+          "id" : 0,
+          "publish" : 1
+        },
+        "hash" : "E09A1FC02F87467D029E122626A7613A",
+        "album_id" : "0",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/singerimg.kugou.com\/uploadpic\/softhead\/{size}\/20201119\/20201119214232997.jpg",
+        "rcflag" : 0,
+        "name" : "吴青峰 - 起风了 (2019歌手第三期现场)",
+        "singerinfo" : [
+          {
+            "name" : "吴青峰",
+            "id" : 86660,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 129748226,
+        "size" : 4761609,
+        "relate_goods" : [
+          {
+            "size" : 4761609,
+            "hash" : "E09A1FC02F87467D029E122626A7613A",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 11903695,
+            "hash" : "C231BEEC455F9031CD3D5429A2525740",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          },
+          {
+            "size" : 15311259,
+            "hash" : "8B7B11DAF4A57C9F11C1416E9F863D73",
+            "level" : 5,
+            "privilege" : 0,
+            "bitrate" : 411
+          },
+          {
+            "size" : 28399632,
+            "hash" : "D77A829603B15AA2DF30DDDC265A4F49",
+            "level" : 6,
+            "privilege" : 0,
+            "bitrate" : 763
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "4CB4A2E6DD251E4B92E6CFD73149B209",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "3D16D37E96F18A218AE57A6CCD306E3B",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 2,
+        "remark" : "很久以前",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "9E65A7945652106409AF366C47327914",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 37661524
+        },
+        "audio_group_id" : "9697055",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6734400264302419968",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 106598662,
+        "timelen" : 208000,
+        "mvtrack" : 3,
+        "sort" : 37,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 37276017,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Way Back",
+          "id" : 8412113,
+          "publish" : 1
+        },
+        "hash" : "3D16D37E96F18A218AE57A6CCD306E3B",
+        "album_id" : "8412113",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20180309\/20180309103858542260.jpg",
+        "rcflag" : 1,
+        "name" : "Vicetone、Cozi Zuehlsdorff - Way Back",
+        "singerinfo" : [
+          {
+            "name" : "Vicetone",
+            "id" : 97737,
+            "publish" : 1
+          },
+          {
+            "name" : "Cozi Zuehlsdorff",
+            "id" : 198997,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 106598662,
+        "size" : 3343513,
+        "relate_goods" : [
+          {
+            "size" : 3343513,
+            "hash" : "3D16D37E96F18A218AE57A6CCD306E3B",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8358396,
+            "hash" : "6CD15C31D7E06A7ED1D56422934DD5BD",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 26318658,
+            "hash" : "BE95D56C47BC95DF80D1EA1C7DE4B7B2",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1007
+          },
+          {
+            "size" : 27282308,
+            "hash" : "F95C4C563083030D9C47128A3BE9AA95",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1044
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "D169033F1E664C324D3664E53967520A",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "627E7C7D86329F0F76BA615C0B7D3FF2",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 97,
+        "remark" : "《天·火》电影主题曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "hash_multitrack" : "ECBADC3FA374CAF7300EFA1749BE5BA3",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "cpy_level" : 1,
+          "display_rate" : 1,
+          "cid" : 83774166
+        },
+        "audio_group_id" : "101846112",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6778521801716125696",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 244164016,
+        "timelen" : 266422,
+        "mvtrack" : 3,
+        "sort" : 38,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 64413135,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "我是如此相信",
+          "id" : 35195334,
+          "publish" : 1
+        },
+        "hash" : "627E7C7D86329F0F76BA615C0B7D3FF2",
+        "album_id" : "35195334",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20191213\/20191213180006195341.jpg",
+        "rcflag" : 0,
+        "name" : "周杰伦 - 我是如此相信",
+        "singerinfo" : [
+          {
+            "name" : "周杰伦",
+            "id" : 3520,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 247136775,
+        "size" : 4263389,
+        "relate_goods" : [
+          {
+            "size" : 4263389,
+            "hash" : "627E7C7D86329F0F76BA615C0B7D3FF2",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10657709,
+            "hash" : "877856AC328E52DAC972BFFCADDB6641",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 31200847,
+            "hash" : "FC7806DCFBC0AB16F2011A8FFE973EB0",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 936
+          },
+          {
+            "size" : 56420519,
+            "hash" : "C2F4ABE88AC22D2CB73BB9FE95FD8B46",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1694
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "E7876E630EC192D9399C80A9CEE82BC5",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "B1436B4E1C268F5A5479FE19120EA630",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 42,
+        "remark" : "梦想终会成真",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "musicpack_advance" : 0,
+          "hash_multitrack" : "6FC94ED510C60EEE6F021938C7B9D70C",
+          "pay_block_tpl" : 1,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : -1
+        },
+        "audio_group_id" : "9213094",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6867284553865650176",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 40131148,
+        "timelen" : 204120,
+        "mvtrack" : 3,
+        "sort" : 39,
+        "collecttime" : 1647852581,
+        "privilege" : 0,
+        "audio_id" : 18769232,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Dream It Possible",
+          "id" : 1804956,
+          "publish" : 1
+        },
+        "hash" : "B1436B4E1C268F5A5479FE19120EA630",
+        "album_id" : "1804956",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20161031\/20161031151741660508.jpg",
+        "rcflag" : 0,
+        "name" : "Delacey - Dream It Possible",
+        "singerinfo" : [
+          {
+            "name" : "Delacey",
+            "id" : 283867,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 40131148,
+        "size" : 3266395,
+        "relate_goods" : [
+          {
+            "size" : 3266395,
+            "hash" : "B1436B4E1C268F5A5479FE19120EA630",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8166004,
+            "hash" : "1134BAE0DEE8227FEC2C0C4C74304A37",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          },
+          {
+            "size" : 25558969,
+            "hash" : "BFB2EB28E7203E715970552C1954F43E",
+            "level" : 5,
+            "privilege" : 0,
+            "bitrate" : 944
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "9900E253A0285337DDCCD6237073C0C0",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "CB4EC511A2EAC5D5382046DA9726D04E",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 45,
+        "remark" : "《波西米亚狂想曲》电影插曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "DD91CE65093CDC06609D679AEAE42659",
+            "file_type" : 0,
+            "end_byte" : 960227,
+            "offset_hash" : "408168E24FF59A4DAF02FA5A0BFF0FCB",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "appid_block" : "2906,3124",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 50077458
+        },
+        "audio_group_id" : "3296",
+        "mvdata" : [
+          {
+            "id" : "6666893256008806400",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 118990721,
+        "timelen" : 129000,
+        "mvtrack" : 0,
+        "sort" : 40,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 45734563,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Bohemian Rhapsody (The Original Soundtrack)",
+          "id" : 11634249,
+          "publish" : 1
+        },
+        "hash" : "CB4EC511A2EAC5D5382046DA9726D04E",
+        "album_id" : "11634249",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20181019\/20181019083247228068.jpg",
+        "rcflag" : 0,
+        "name" : "Queen - We Will Rock You (Movie Mix)",
+        "singerinfo" : [
+          {
+            "name" : "Queen",
+            "id" : 32508,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 118990721,
+        "size" : 2066694,
+        "relate_goods" : [
+          {
+            "size" : 2066694,
+            "hash" : "CB4EC511A2EAC5D5382046DA9726D04E",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 5166279,
+            "hash" : "DA6B916A7988FF2F7F0152F484933227",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 15106361,
+            "hash" : "CF6C7B85989A4DD3C13AFCC3FB3ADBCD",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 935
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "D48B2F91EB364247342ED38DE36BAFBF",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 1,
+        "remark" : "《冰雪奇缘》电影主题曲",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "musicpack_advance" : 0,
+          "hash_multitrack" : "CBF15CD9796E211F10137A8B6EC0D5F7",
+          "pay_block_tpl" : 1,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : -1
+        },
+        "audio_group_id" : "1228958",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6836185791251816448",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 27676834,
+        "timelen" : 224705,
+        "mvtrack" : 3,
+        "sort" : 41,
+        "collecttime" : 1647852581,
+        "privilege" : 0,
+        "audio_id" : 2522472,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Frozen (Original Motion Picture Soundtrack)",
+          "id" : 533960,
+          "publish" : 1
+        },
+        "hash" : "D48B2F91EB364247342ED38DE36BAFBF",
+        "album_id" : "533960",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909114654408441.jpg",
+        "rcflag" : 0,
+        "name" : "Idina Menzel - Let It Go",
+        "singerinfo" : [
+          {
+            "name" : "Idina Menzel",
+            "id" : 49548,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 27676834,
+        "size" : 3595796,
+        "relate_goods" : [
+          {
+            "size" : 3595796,
+            "hash" : "D48B2F91EB364247342ED38DE36BAFBF",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8987294,
+            "hash" : "52ECF0405D34C48EE16CA50760052D49",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          },
+          {
+            "size" : 23890477,
+            "hash" : "D04EEDBF93D1CC405EF0A8D459BD9E09",
+            "level" : 5,
+            "privilege" : 0,
+            "bitrate" : 850
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "669EF8800C337D19FDFA6A71362A10FA",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "4695B8373C1AF8E3262C822BFB5A55BD",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 148,
+        "remark" : "《明日之子》综艺",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "8031399CEFB68393D667B8441279A73F",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "25847DF176A9FADC79928814D1869FB2",
+            "file_type" : 0,
+            "end_byte" : 960133,
+            "offset_hash" : "046E210FD290976FCE320197047E20E7",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 14010899
+        },
+        "audio_group_id" : "9528372",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6747707790709927936",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 68200394,
+        "timelen" : 171755,
+        "mvtrack" : 3,
+        "sort" : 42,
+        "collecttime" : 1648023042,
+        "privilege" : 10,
+        "audio_id" : 27641304,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "明日之子 第八期",
+          "id" : 2952169,
+          "publish" : 1
+        },
+        "hash" : "4695B8373C1AF8E3262C822BFB5A55BD",
+        "album_id" : "2952169",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20170806\/20170806124130607823.jpg",
+        "rcflag" : 0,
+        "name" : "毛不易 - 像我这样的人 (Live)",
+        "singerinfo" : [
+          {
+            "name" : "毛不易",
+            "id" : 722869,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 68200394,
+        "size" : 2748709,
+        "relate_goods" : [
+          {
+            "size" : 2748709,
+            "hash" : "4695B8373C1AF8E3262C822BFB5A55BD",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 6871459,
+            "hash" : "19BE1B0BCFBA2B1352A190C9DA680FB9",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 17109328,
+            "hash" : "7BDF85F5A0E8005FBA735F0BAC5E5778",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 796
+          },
+          {
+            "size" : 34653868,
+            "hash" : "86298EF4F75D764CFB93EF88E7F4A9C2",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1608
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "75722A9A4BFA39A42164505D7656D58C",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "8CCE90D2244988ED29F30811AD9B6501",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 152,
+        "remark" : "残酷的爱",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "C42E0A9388AA0993F328702AB11011A2",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 102713361
+        },
+        "audio_group_id" : "112904713",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6698886609285648384",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 260247164,
+        "timelen" : 171000,
+        "mvtrack" : 3,
+        "sort" : 43,
+        "collecttime" : 1648102425,
+        "privilege" : 8,
+        "audio_id" : 75206388,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Savage Love (Laxed - Siren Beat) (Explicit)",
+          "id" : 38026706,
+          "publish" : 1
+        },
+        "hash" : "8CCE90D2244988ED29F30811AD9B6501",
+        "album_id" : "38026706",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200610\/20200610074303545433.jpg",
+        "rcflag" : 0,
+        "name" : "Savage Love (Laxed - Siren Beat) (Explicit)",
+        "singerinfo" : [
+          {
+            "name" : "Jawsh 685",
+            "id" : 1013622,
+            "publish" : 1
+          },
+          {
+            "name" : "Jason Derulo",
+            "id" : 83686,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 260247164,
+        "size" : 2743414,
+        "relate_goods" : [
+          {
+            "size" : 2743414,
+            "hash" : "8CCE90D2244988ED29F30811AD9B6501",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 6858013,
+            "hash" : "6CB9B24B17B9DE610CC3F5D6EB2E66BE",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "60061D3EEFA6283C6729880BDE4E3B39",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "B70149CE76BE8147773B6179E5CB5F71",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 138,
+        "remark" : "内华达州",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "56ACA7BF2DF6FF6EF6866630ACE9A07D",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 32251340
+        },
+        "audio_group_id" : "9255599",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6735107275260354560",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 39667496,
+        "timelen" : 208000,
+        "mvtrack" : 3,
+        "sort" : 44,
+        "collecttime" : 1648013908,
+        "privilege" : 8,
+        "audio_id" : 22090833,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Nevada",
+          "id" : 1746275,
+          "publish" : 1
+        },
+        "hash" : "B70149CE76BE8147773B6179E5CB5F71",
+        "album_id" : "1746275",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160909\/20160909071009499507.jpg",
+        "rcflag" : 1,
+        "name" : "Vicetone、Cozi Zuehlsdorff - Nevada",
+        "singerinfo" : [
+          {
+            "name" : "Vicetone",
+            "id" : 97737,
+            "publish" : 1
+          },
+          {
+            "name" : "Cozi Zuehlsdorff",
+            "id" : 198997,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 39667496,
+        "size" : 3338072,
+        "relate_goods" : [
+          {
+            "size" : 3338072,
+            "hash" : "B70149CE76BE8147773B6179E5CB5F71",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8344805,
+            "hash" : "CA6C6BA41D56D2C970AC91E8308AA10F",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 22984396,
+            "hash" : "504281F19213D84D30CC991C9012DA4B",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 881
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "74077EF9585F2D96F585776C345D07E4",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "B1F8C83387BC7F60A0BD92B6CEF6F726",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 150,
+        "remark" : "《特勤精英》电视剧插曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "37E7DA77E0151CAE4CB06048FCEED266",
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : 5882797
+        },
+        "audio_group_id" : "1353731",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "1576460740",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 27795990,
+        "timelen" : 269688,
+        "mvtrack" : 3,
+        "sort" : 45,
+        "collecttime" : 1648086726,
+        "privilege" : 8,
+        "audio_id" : 4553351,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Uptown Special",
+          "id" : 544129,
+          "publish" : 1
+        },
+        "hash" : "B1F8C83387BC7F60A0BD92B6CEF6F726",
+        "album_id" : "544129",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210601\/20210601120601124968.jpg",
+        "rcflag" : 0,
+        "name" : "Mark Ronson、Bruno Mars - Uptown Funk (Explicit)",
+        "singerinfo" : [
+          {
+            "name" : "Mark Ronson",
+            "id" : 30036,
+            "publish" : 1
+          },
+          {
+            "name" : "Bruno Mars",
+            "id" : 22043,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 27795990,
+        "size" : 4315720,
+        "relate_goods" : [
+          {
+            "size" : 4315720,
+            "hash" : "B1F8C83387BC7F60A0BD92B6CEF6F726",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10788863,
+            "hash" : "1C5E7DB1E7A73C4E07416BC9C1CFD578",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 33363194,
+            "hash" : "A4DE5B0155C82262FB99FA6562B00B28",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 989
+          },
+          {
+            "size" : 87123389,
+            "hash" : "ECE575E0CDE53AA6E3F2E22F456BA8F0",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 2584
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "4D45B2356C904D887BCFF90A81C0BE6D",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "2A5D9FAE6CE5FF158E946CD15FECCC09",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 131,
+        "remark" : "《盛夏未来》电影插曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "6DFA81DA3E4FC677D9B9F9C47F6885DD",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 6690632
+        },
+        "audio_group_id" : "9358081",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6689833929734541312",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 54003766,
+        "timelen" : 247000,
+        "mvtrack" : 3,
+        "sort" : 46,
+        "collecttime" : 1647937410,
+        "privilege" : 8,
+        "audio_id" : 25301779,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Something Just Like This",
+          "id" : 1973496,
+          "publish" : 1
+        },
+        "hash" : "2A5D9FAE6CE5FF158E946CD15FECCC09",
+        "album_id" : "1973496",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909112550726097.jpg",
+        "rcflag" : 1,
+        "name" : "The Chainsmokers、Coldplay - Something Just Like This",
+        "singerinfo" : [
+          {
+            "name" : "The Chainsmokers",
+            "id" : 155341,
+            "publish" : 1
+          },
+          {
+            "name" : "Coldplay",
+            "id" : 84037,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 54003766,
+        "size" : 3963411,
+        "relate_goods" : [
+          {
+            "size" : 3963411,
+            "hash" : "2A5D9FAE6CE5FF158E946CD15FECCC09",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9908044,
+            "hash" : "7DF1EF23049CC6D50C970322D5137EFE",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 30165072,
+            "hash" : "08813F80072534A9C3ABE292421D6083",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 976
+          },
+          {
+            "size" : 54046803,
+            "hash" : "4AB52F410BD3701C02B58E78D5D545E4",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1681
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "EC7773941D4DC39A385D71BFAA8DE66F",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "0D80A232FA2F4D8FE5ABA33713B9592E",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 51,
+        "remark" : "Seve",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "6846429DD0B73BF2356A776A8D091BD0",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 5886133
+        },
+        "audio_group_id" : "1381757",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "1582385187",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 29760357,
+        "timelen" : 210000,
+        "mvtrack" : 3,
+        "sort" : 47,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 9612992,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Seve",
+          "id" : 710504,
+          "publish" : 1
+        },
+        "hash" : "0D80A232FA2F4D8FE5ABA33713B9592E",
+        "album_id" : "710504",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210601\/20210601120917143485.jpg",
+        "rcflag" : 1,
+        "name" : "Tez Cadey - Seve (Radio Edit)",
+        "singerinfo" : [
+          {
+            "name" : "Tez Cadey",
+            "id" : 182092,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 29760357,
+        "size" : 3374838,
+        "relate_goods" : [
+          {
+            "size" : 3374838,
+            "hash" : "0D80A232FA2F4D8FE5ABA33713B9592E",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8436742,
+            "hash" : "D2033CE31624C43CEB8BB779F55EF7C1",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 20457025,
+            "hash" : "D8DB12CFA334E28BD4D0D9B81AA6AB2B",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 778
+          },
+          {
+            "size" : 21016422,
+            "hash" : "7DB33268017AF1E6E75E8BCD8480D81D",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 800
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "D106A0D7633280758BB20F05E93C72AF",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "0AD7B7055F5B97F48D0CFFEEBE8AF69B",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 44,
+        "remark" : "《同桌的你》电影插曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "16A0BC50CB78A26B4160702F98199154",
+            "file_type" : 0,
+            "end_byte" : 960245,
+            "offset_hash" : "19050C98814F371C72635C8B9DEE9F53",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "7C75297FF053A6B91F4018C023C2906B",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "cid" : 36333365,
+          "appid_block" : "2906,3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 0,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "171619",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "5131070907348894105",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 38211481,
+        "timelen" : 179000,
+        "mvtrack" : 3,
+        "sort" : 48,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 591616,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "News of the World",
+          "id" : 1592835,
+          "publish" : 1
+        },
+        "hash" : "0AD7B7055F5B97F48D0CFFEEBE8AF69B",
+        "album_id" : "1592835",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150720\/20150720125642945826.jpg",
+        "rcflag" : 0,
+        "name" : "Queen - We Are the Champions (Remastered 2011)",
+        "singerinfo" : [
+          {
+            "name" : "Queen",
+            "id" : 32508,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 38211481,
+        "size" : 2868357,
+        "relate_goods" : [
+          {
+            "size" : 2868357,
+            "hash" : "0AD7B7055F5B97F48D0CFFEEBE8AF69B",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7170411,
+            "hash" : "88B7ADEF21C07F841C6B3D33B1ADA8D9",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 20282490,
+            "hash" : "41A56B62DBE6559F97A3BD2D96CF50AF",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 887
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "A034783AE7A0AA75A02546C24E37E6F3",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "6A0ECBE813ACCF31F449053DD258773C",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 55,
+        "remark" : "《后会无期》电影主题曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "2884CD481ED33974468A7016633C46E9",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "FD8AB63F91E30CA1EA9116EC92603867",
+            "file_type" : 0,
+            "end_byte" : 960119,
+            "offset_hash" : "0BBA4DC6AC3632755C91ADE06F01BA38",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 22232203
+        },
+        "audio_group_id" : "1301517",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6684360600855080960",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 68180932,
+        "timelen" : 302000,
+        "mvtrack" : 3,
+        "sort" : 49,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 4019510,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "猎户星座",
+          "id" : 2944963,
+          "publish" : 1
+        },
+        "hash" : "6A0ECBE813ACCF31F449053DD258773C",
+        "album_id" : "2944963",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20170429\/20170429004022663887.jpg",
+        "rcflag" : 0,
+        "name" : "朴树 - 平凡之路",
+        "singerinfo" : [
+          {
+            "name" : "朴树",
+            "id" : 2303,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 68180932,
+        "size" : 4835147,
+        "relate_goods" : [
+          {
+            "size" : 4835147,
+            "hash" : "6A0ECBE813ACCF31F449053DD258773C",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 12087575,
+            "hash" : "DA8072FF949C02996259B77F25EFE421",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 33144044,
+            "hash" : "E22F07AB098769A218558D8731847490",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 877
+          },
+          {
+            "size" : 107975040,
+            "hash" : "07B1287957770705406D44409B6583DE",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 2869
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "B42206E562BDEE6F7875EEEF2D48E422",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "DE27CECAD8E649CC5814388D714745A3",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 123,
+        "remark" : "黑魔法",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "DCEE5DE412FE8F6A16DED93DD84A5872",
+          "appid_block" : "2906,3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 126022593
+        },
+        "audio_group_id" : "135409206",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6863436611964583936",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 286067343,
+        "timelen" : 174236,
+        "mvtrack" : 3,
+        "sort" : 50,
+        "collecttime" : 1647876681,
+        "privilege" : 8,
+        "audio_id" : 89487539,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Black Magic",
+          "id" : 40659013,
+          "publish" : 1
+        },
+        "hash" : "DE27CECAD8E649CC5814388D714745A3",
+        "album_id" : "40659013",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20201218\/20201218093904877236.jpg",
+        "rcflag" : 1,
+        "name" : "Jonasu - Black Magic",
+        "singerinfo" : [
+          {
+            "name" : "Jonasu",
+            "id" : 943562,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 286067343,
+        "size" : 2788437,
+        "relate_goods" : [
+          {
+            "size" : 2788437,
+            "hash" : "DE27CECAD8E649CC5814388D714745A3",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 6970746,
+            "hash" : "0DC646FB3938F25348ED15EC66FE4100",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 19269443,
+            "hash" : "FAED81C49C5114A3D11676C9050819C3",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 884
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "FE27134360B962406C3ACCD2042C1AE7",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "45EE8336978CE30B1515F4564D55C0F8",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 118,
+        "remark" : "数星星",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "8C2E70AF2344C89E072DA1D309CAC1A5",
+            "file_type" : 0,
+            "end_byte" : 960195,
+            "offset_hash" : "F183E494D0C86184D5F6D23AF22C2BCC",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "8D450DB81285F0FD582848475F1A3B8D",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "cid" : 7345198,
+          "appid_block" : "2906,3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 0,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "593798",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6806046523153346560",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 66217584,
+        "timelen" : 257000,
+        "mvtrack" : 3,
+        "sort" : 51,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 665380,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Native (Deluxe Version)",
+          "id" : 2728811,
+          "publish" : 1
+        },
+        "hash" : "45EE8336978CE30B1515F4564D55C0F8",
+        "album_id" : "2728811",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160908\/20160908123742484664.jpg",
+        "rcflag" : 0,
+        "name" : "OneRepublic - Counting Stars",
+        "singerinfo" : [
+          {
+            "name" : "OneRepublic",
+            "id" : 31653,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 66217584,
+        "size" : 4117587,
+        "relate_goods" : [
+          {
+            "size" : 4117587,
+            "hash" : "45EE8336978CE30B1515F4564D55C0F8",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10293561,
+            "hash" : "9093EB750D0F771024021C8D052ED725",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 31627278,
+            "hash" : "A1DCC8BC6A6F9BE67B20F03423EF6F36",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 983
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "137D92639B675DE4AFB19896FD4976EC",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "AADE505DA08A70C8BB261BCEF2DF728D",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 110,
+        "remark" : "Bad Hair Day Hits",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "6EFBFC7EF0C6881A0324795FD0010E4B",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 41502496
+        },
+        "audio_group_id" : "215716766",
+        "mvdata" : [
+          {
+            "id" : "6823490212022362112",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 117822466,
+        "timelen" : 200000,
+        "mvtrack" : 0,
+        "sort" : 52,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 1044726615,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Bad Hair Day Hits",
+          "id" : 14919158,
+          "publish" : 1
+        },
+        "hash" : "AADE505DA08A70C8BB261BCEF2DF728D",
+        "album_id" : "14919158",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20190128\/20190128004549609492.jpg",
+        "rcflag" : 1,
+        "name" : "未知歌手 - All Falls Down",
+        "singerinfo" : [
+          {
+            "name" : "",
+            "id" : 0,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 117822466,
+        "size" : 3204757,
+        "relate_goods" : [
+          {
+            "size" : 3204757,
+            "hash" : "AADE505DA08A70C8BB261BCEF2DF728D",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8011496,
+            "hash" : "BEFCCF1351B2AF919CB09501B0F763D2",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 24121650,
+            "hash" : "03C1E795638D742C28BC455AC3E0BDBD",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 963
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "3D8D05CA551CFFE17B81357D0F465B39",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 125,
+        "remark" : "它在纸箱里响叮咚",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "26ABD2FEEA0814CB4EF294CA3C692150",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 783444
+        },
+        "audio_group_id" : "1359770",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6791622487753068544",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 28887584,
+        "timelen" : 204000,
+        "mvtrack" : 3,
+        "sort" : 53,
+        "collecttime" : 1647876710,
+        "privilege" : 8,
+        "audio_id" : 4466870,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Es Rappelt Im Karton",
+          "id" : 623237,
+          "publish" : 1
+        },
+        "hash" : "3D8D05CA551CFFE17B81357D0F465B39",
+        "album_id" : "623237",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210601\/20210601120512155862.jpg",
+        "rcflag" : 0,
+        "name" : "Pixie Paris - Es Rappelt Im Karton",
+        "singerinfo" : [
+          {
+            "name" : "Pixie Paris",
+            "id" : 177956,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 28887584,
+        "size" : 3271644,
+        "relate_goods" : [
+          {
+            "size" : 3271644,
+            "hash" : "3D8D05CA551CFFE17B81357D0F465B39",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8178694,
+            "hash" : "129B59C1AC99C0A2A2C9E71868F03624",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 26673445,
+            "hash" : "79606FEF5397F7DF22C1FAF91314BBB2",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1043
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "539CAAE766A24B8E03F352A996847D81",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "54908275FF699DC2BABA09C09F0DC0DF",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 144,
+        "remark" : "爱已消失",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "musicpack_advance" : 0,
+          "pay_block_tpl" : 1,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : -1
+        },
+        "audio_group_id" : "89323693",
+        "mvdata" : [
+          {
+            "id" : "6807247047115489280",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 278383560,
+        "timelen" : 230739,
+        "mvtrack" : 0,
+        "sort" : 54,
+        "collecttime" : 1648014676,
+        "privilege" : 0,
+        "audio_id" : 83364654,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Love is gone (Justin Dai & Marvin Bootleg)",
+          "id" : 39744265,
+          "publish" : 1
+        },
+        "hash" : "54908275FF699DC2BABA09C09F0DC0DF",
+        "album_id" : "39744265",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20201027\/20201027102023509197.jpg",
+        "rcflag" : 1,
+        "name" : "SLANDER、Dylan Matthew - Love is gone (Justin Dai & Marvin Bootleg) (Marvin Remix)",
+        "singerinfo" : [
+          {
+            "name" : "SLANDER",
+            "id" : 207298,
+            "publish" : 1
+          },
+          {
+            "name" : "Dylan Matthew",
+            "id" : 777198,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 278383560,
+        "size" : 3692295,
+        "relate_goods" : [
+          {
+            "size" : 3692295,
+            "hash" : "54908275FF699DC2BABA09C09F0DC0DF",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9230672,
+            "hash" : "A88C229F01E6D9140B358FA028F7A7E2",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27048610,
+            "hash" : "F61699B38C6D7EB2701DDD9E6BD0520E",
+            "level" : 5,
+            "privilege" : 0,
+            "bitrate" : 937
+          },
+          {
+            "size" : 48565193,
+            "hash" : "1EE7A45A174A2DDE5A335609BCC5E322",
+            "level" : 6,
+            "privilege" : 0,
+            "bitrate" : 1683
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "866086268657E66296A30C9E0FC3DEB1",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 140,
+        "remark" : "力量（在你的灵魂中）",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "CF3F76957CEEB7C63CBA851E85E503B5",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 148617102
+        },
+        "audio_group_id" : "165153663",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6844539940665147392",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 312527438,
+        "timelen" : 215000,
+        "mvtrack" : 5,
+        "sort" : 55,
+        "collecttime" : 1648014137,
+        "privilege" : 8,
+        "audio_id" : 106936456,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Power (In Your Soul)",
+          "id" : 44458307,
+          "publish" : 1
+        },
+        "hash" : "866086268657E66296A30C9E0FC3DEB1",
+        "album_id" : "44458307",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210508\/20210508214104127550.jpg",
+        "rcflag" : 1,
+        "name" : "Interupt、Luna LePage - Power (In Your Soul)",
+        "singerinfo" : [
+          {
+            "name" : "Interupt",
+            "id" : 3076916,
+            "publish" : 1
+          },
+          {
+            "name" : "Luna LePage",
+            "id" : 6345596,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 312527438,
+        "size" : 3451535,
+        "relate_goods" : [
+          {
+            "size" : 3451535,
+            "hash" : "866086268657E66296A30C9E0FC3DEB1",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8628168,
+            "hash" : "70EDF03B6CBE3AAAB90FF87E8DE34C5A",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 28862385,
+            "hash" : "D5A7E545F973E495F3ABB057C503EF21",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1070
+          },
+          {
+            "size" : 47962056,
+            "hash" : "F8106983DBD844FB3361EE1395E431AD",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1779
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "6D4F5AED0FFE6608BFCFACFB832C5F41",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "02638BECB708C059104C4F08E3D48B95",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 137,
+        "remark" : "让我好好打扮",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "88EA1D0533E3FD93ABD0C9BD2C57B036",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 38732875
+        },
+        "audio_group_id" : "28679214",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6686179519486578688",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 110338374,
+        "timelen" : 193000,
+        "mvtrack" : 3,
+        "sort" : 56,
+        "collecttime" : 1648013864,
+        "privilege" : 8,
+        "audio_id" : 39944324,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Wrap Me In Plastic",
+          "id" : 8824709,
+          "publish" : 1
+        },
+        "hash" : "02638BECB708C059104C4F08E3D48B95",
+        "album_id" : "8824709",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210112\/20210112123956747179.jpg",
+        "rcflag" : 1,
+        "name" : "CHROMANCE - Wrap Me In Plastic",
+        "singerinfo" : [
+          {
+            "name" : "CHROMANCE",
+            "id" : 832820,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 110338374,
+        "size" : 3100269,
+        "relate_goods" : [
+          {
+            "size" : 3100269,
+            "hash" : "02638BECB708C059104C4F08E3D48B95",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7750274,
+            "hash" : "04208FC0D65F6F22D896B72B05FC63F8",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 24255705,
+            "hash" : "09F8337DAF2F3BB70F7DCF6D0A8706E4",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1001
+          },
+          {
+            "size" : 41061057,
+            "hash" : "D7CC9592EB79763C728EBBB5F3E20A0D",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1695
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "3B3BE972C29F87DE486667C367FC94AE",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "499D4F589C5ED4DB3E88670B79A0E8AE",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 134,
+        "remark" : "The Spectre",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "7DFDD626E79A1A6387230CC6665C3D9B",
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : 22092481
+        },
+        "audio_group_id" : "9563260",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6693703865126813696",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 87890632,
+        "timelen" : 193828,
+        "mvtrack" : 3,
+        "sort" : 57,
+        "collecttime" : 1648013786,
+        "privilege" : 8,
+        "audio_id" : 28479380,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "The Spectre",
+          "id" : 3991421,
+          "publish" : 1
+        },
+        "hash" : "499D4F589C5ED4DB3E88670B79A0E8AE",
+        "album_id" : "3991421",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909111143599012.jpg",
+        "rcflag" : 1,
+        "name" : "Alan Walker - The Spectre",
+        "singerinfo" : [
+          {
+            "name" : "Alan Walker",
+            "id" : 178240,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 87890632,
+        "size" : 3101917,
+        "relate_goods" : [
+          {
+            "size" : 3101917,
+            "hash" : "499D4F589C5ED4DB3E88670B79A0E8AE",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7754429,
+            "hash" : "30C10726F044EF7D695ABB4F1D4B1FEB",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 24114701,
+            "hash" : "ABB19184BE086C85E922F4875B51B7DA",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 995
+          },
+          {
+            "size" : 41113827,
+            "hash" : "F89C3DDFB7B25D1B740502F492BDB053",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1697
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "2669E1F75B6AC046F56C7DB8921F6738",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "CE5E56EAC7C1ED3ADEC4376B5F3BC1C1",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 141,
+        "remark" : "《爱宠大机密》电影片头曲",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "36CE0E0F7F600FFC1A6DA4C51BBEAA8A",
+            "file_type" : 0,
+            "end_byte" : 960187,
+            "offset_hash" : "709FD272C287A8D1951E16EDBD360CC3",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "2A17BA774A931A43588ACE8C59FCF9E6",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "cid" : 2495733,
+          "appid_block" : "2906,3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 1,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "1344480",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6800742624754765838",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 27756435,
+        "timelen" : 212636,
+        "mvtrack" : 3,
+        "sort" : 58,
+        "collecttime" : 1648014476,
+        "privilege" : 10,
+        "audio_id" : 4360770,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "1989 (Deluxe)",
+          "id" : 541284,
+          "publish" : 1
+        },
+        "hash" : "CE5E56EAC7C1ED3ADEC4376B5F3BC1C1",
+        "album_id" : "541284",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210813\/20210813081807850582.jpg",
+        "rcflag" : 1,
+        "name" : "Taylor Swift - Welcome To New York",
+        "singerinfo" : [
+          {
+            "name" : "Taylor Swift",
+            "id" : 34450,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 27756435,
+        "size" : 3402869,
+        "relate_goods" : [
+          {
+            "size" : 3402869,
+            "hash" : "CE5E56EAC7C1ED3ADEC4376B5F3BC1C1",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8506778,
+            "hash" : "159CD206EAA3389F9D2292971FAE69DB",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27294272,
+            "hash" : "454042803951A14739A7AAFD9E13A212",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 1026
+          },
+          {
+            "size" : 47974727,
+            "hash" : "F8E206B7A753067B147327E9071FA3DC",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1794
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "A6085C4C736E6C341BDE47E56A828B71",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "480311187E8A3C794BC75618F85A99C7",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 108,
+        "remark" : "宁愿",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "FBFCE54CC2C554E02690BEE4BD9F9088",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "A8BB4DB8DC3CE4C1DDA3369793140245",
+            "file_type" : 0,
+            "end_byte" : 960261,
+            "offset_hash" : "C539AFF20198F41893B154F5B6442649",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 73437470
+        },
+        "audio_group_id" : "150647647",
+        "mvdata" : [
+          {
+            "id" : "6798878437195747328",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 175481864,
+        "timelen" : 244000,
+        "mvtrack" : 0,
+        "sort" : 59,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 57160952,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Absinthe & Lights",
+          "id" : 25463836,
+          "publish" : 1
+        },
+        "hash" : "480311187E8A3C794BC75618F85A99C7",
+        "album_id" : "25463836",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20190719\/20190719192225484516.jpg",
+        "rcflag" : 0,
+        "name" : "Bobby Capri - Rather Be (Pri Mix)",
+        "singerinfo" : [
+          {
+            "name" : "Bobby Capri",
+            "id" : 291689,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 175481864,
+        "size" : 3905748,
+        "relate_goods" : [
+          {
+            "size" : 3905748,
+            "hash" : "480311187E8A3C794BC75618F85A99C7",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9763864,
+            "hash" : "111E028FABEC7F85C28AF7B1106910BE",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 0,
+            "hash" : "B59F91C25E5DCE02EBE707E34F793E8F",
+            "pay_type" : 0
+          }
+        ],
+        "fileid" : 147,
+        "remark" : "《中国新说唱2018》综艺",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "71D213DF264703A46B498B65976C7B63",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 48118998
+        },
+        "audio_group_id" : "31730833",
+        "mvdata" : [
+          {
+            "id" : "6841656378698964992",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 114875905,
+        "timelen" : 258505,
+        "mvtrack" : 0,
+        "sort" : 60,
+        "collecttime" : 1648020415,
+        "privilege" : 0,
+        "audio_id" : 43467451,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "中国新说唱 第10期",
+          "id" : 10315908,
+          "publish" : 1
+        },
+        "hash" : "B59F91C25E5DCE02EBE707E34F793E8F",
+        "album_id" : "10315908",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211018\/20211018192628525676.jpg",
+        "rcflag" : 0,
+        "name" : "尤长靖、那吾克热-NW - 飘向北方 (Live)",
+        "singerinfo" : [
+          {
+            "name" : "尤长靖",
+            "id" : 772516,
+            "publish" : 1
+          },
+          {
+            "name" : "那吾克热-NW",
+            "id" : 181047,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 114875905,
+        "size" : 4136768,
+        "relate_goods" : [
+          {
+            "size" : 4136768,
+            "hash" : "B59F91C25E5DCE02EBE707E34F793E8F",
+            "level" : 2,
+            "privilege" : 0,
+            "bitrate" : 128
+          },
+          {
+            "size" : 10341581,
+            "hash" : "799E3CE0319B58E1408665E0563B2483",
+            "level" : 4,
+            "privilege" : 0,
+            "bitrate" : 320
+          },
+          {
+            "size" : 29688018,
+            "hash" : "7C49181104300C6E2295C9BF6C0862B6",
+            "level" : 5,
+            "privilege" : 0,
+            "bitrate" : 918
+          },
+          {
+            "size" : 54435148,
+            "hash" : "2816B47D8A323AF0143D2CD38ED31AFD",
+            "level" : 6,
+            "privilege" : 0,
+            "bitrate" : 1684
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "",
+        "csong" : 0,
+        "mvtype" : 0,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "8B8550DC66C6757045FE2B88162D79D6",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 139,
+        "remark" : "请不要走",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "F16550F758D42D185631DBC626B1B9D9",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 78025707
+        },
+        "audio_group_id" : "3991927",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "1574216270",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 38056111,
+        "timelen" : 210000,
+        "mvtrack" : 3,
+        "sort" : 62,
+        "collecttime" : 1648013951,
+        "privilege" : 8,
+        "audio_id" : 19825744,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Please Don't Go",
+          "id" : 1580207,
+          "publish" : 1
+        },
+        "hash" : "8B8550DC66C6757045FE2B88162D79D6",
+        "album_id" : "1580207",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909105519112276.jpg",
+        "rcflag" : 0,
+        "name" : "Joel Adams - Please Don't Go",
+        "singerinfo" : [
+          {
+            "name" : "Joel Adams",
+            "id" : 297463,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 38056111,
+        "size" : 3370678,
+        "relate_goods" : [
+          {
+            "size" : 3370678,
+            "hash" : "8B8550DC66C6757045FE2B88162D79D6",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 8426313,
+            "hash" : "14F8D8A5B635BC3AC3FB38EF9315C220",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 25468992,
+            "hash" : "373D5264D85B2507DE83FE3292B8C896",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 967
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "373055A416A4D12674484C4C348BE3B3",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "F37EA8EAB22DABD93669154540549C00",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 142,
+        "remark" : "甜蜜但疯狂",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "9A60B6C1F5BC151E85F07AE1BC271E53",
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "DBF0043194DBA511A4D29009F2E18AB8",
+            "file_type" : 0,
+            "end_byte" : 960177,
+            "offset_hash" : "F0D846246B689913CC68E2DA4EE30FC8",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "display_rate" : 0,
+          "cid" : 45602268
+        },
+        "audio_group_id" : "30199091",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6688714967166357504",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 112654518,
+        "timelen" : 187000,
+        "mvtrack" : 3,
+        "sort" : 63,
+        "collecttime" : 1648014515,
+        "privilege" : 10,
+        "audio_id" : 41651957,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Sweet but Psycho",
+          "id" : 9499729,
+          "publish" : 1
+        },
+        "hash" : "F37EA8EAB22DABD93669154540549C00",
+        "album_id" : "9499729",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20180817\/20180817042140786951.jpg",
+        "rcflag" : 0,
+        "name" : "Ava Max - Sweet but Psycho",
+        "singerinfo" : [
+          {
+            "name" : "Ava Max",
+            "id" : 758241,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 112654518,
+        "size" : 3003708,
+        "relate_goods" : [
+          {
+            "size" : 3003708,
+            "hash" : "F37EA8EAB22DABD93669154540549C00",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7508890,
+            "hash" : "45DDE1952F45E2F3FC859FC0FC913525",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 21865244,
+            "hash" : "CC875E72C3FEE80D5A27A11A10806686",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 931
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "57DCACED94F491A7BB354D53DFC7AB8B",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "0935AE82741711BD4D8C0C16C7512DAC",
+            "pay_type" : 1
+          }
+        ],
+        "fileid" : 124,
+        "remark" : "现实",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "31BC07657BE5F9CF54DED63C065B3D42",
+          "appid_block" : "3124",
+          "musicpack_advance" : 0,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display" : 32,
+          "display_rate" : 1,
+          "cid" : 80989851
+        },
+        "audio_group_id" : "191350065",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6688643249215246336",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 57442836,
+        "timelen" : 160000,
+        "mvtrack" : 3,
+        "sort" : 64,
+        "collecttime" : 1647876695,
+        "privilege" : 8,
+        "audio_id" : 16466608,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Reality",
+          "id" : 2131363,
+          "publish" : 1
+        },
+        "hash" : "0935AE82741711BD4D8C0C16C7512DAC",
+        "album_id" : "2131363",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20161028\/20161028184052854102.jpg",
+        "rcflag" : 1,
+        "name" : "Lost Frequencies、Janieck - Reality",
+        "singerinfo" : [
+          {
+            "name" : "Lost Frequencies",
+            "id" : 179989,
+            "publish" : 1
+          },
+          {
+            "name" : "Janieck",
+            "id" : 191825,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 57442836,
+        "size" : 2553156,
+        "relate_goods" : [
+          {
+            "size" : 2553156,
+            "hash" : "0935AE82741711BD4D8C0C16C7512DAC",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 6382049,
+            "hash" : "53A7E7BBAB6C86A3A6E4C05835D3BB97",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 18432955,
+            "hash" : "4D2AC840C5D962D02A6836D38205FFF1",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 910
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "EA6F1F04814584DFE9A8B64DAD50BB6D",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "B7252185F72CED4FF63E944F8C6B47DA",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 112,
+        "remark" : "勇气",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "free_for_ad" : 32,
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_level" : 1,
+          "hash_multitrack" : "B1C0F2E859E9C0A37CBF60C2964F1BB6",
+          "cpy_grade" : 22,
+          "musicpack_advance" : 0,
+          "display" : 32,
+          "classmap" : {
+            "attr0" : 234885128
+          },
+          "display_rate" : 1,
+          "cid" : 84757324
+        },
+        "audio_group_id" : "102145746",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6683655654546800640",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 244931941,
+        "timelen" : 241763,
+        "mvtrack" : 3,
+        "sort" : 65,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 64931035,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "勇气",
+          "id" : 35419087,
+          "publish" : 1
+        },
+        "hash" : "B7252185F72CED4FF63E944F8C6B47DA",
+        "album_id" : "35419087",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200108\/20200108143010215830.jpg",
+        "rcflag" : 0,
+        "name" : "棉子 - 勇气",
+        "singerinfo" : [
+          {
+            "name" : "棉子",
+            "id" : 799015,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 244931941,
+        "size" : 3868674,
+        "relate_goods" : [
+          {
+            "size" : 3868674,
+            "hash" : "B7252185F72CED4FF63E944F8C6B47DA",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9671619,
+            "hash" : "E77893E3A6D03603B9AAEDD3C8E6B919",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 25878034,
+            "hash" : "CD6C48CDC2444B6968707865148776B0",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 856
+          },
+          {
+            "size" : 12500291,
+            "hash" : "7629B1AF46B0FF0C44452FFB55FB73EE",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 416
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "28E5380D9F46C0AB60446EF17322FE60",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "103845BCDB2ACB5623B49B721DF4BB1C",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 130,
+        "remark" : "提示",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "EBE04E8844A60055BFD6B28C73F4FA91",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 77633110
+        },
+        "audio_group_id" : "9351623",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6774533216046354432",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 222412236,
+        "timelen" : 191000,
+        "mvtrack" : 3,
+        "sort" : 66,
+        "collecttime" : 1647937321,
+        "privilege" : 8,
+        "audio_id" : 23815990,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Save Me (Deluxe)",
+          "id" : 30557554,
+          "publish" : 1
+        },
+        "hash" : "103845BCDB2ACB5623B49B721DF4BB1C",
+        "album_id" : "30557554",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20191014\/20191014150903762086.jpg",
+        "rcflag" : 1,
+        "name" : "DEAMN - Sign",
+        "singerinfo" : [
+          {
+            "name" : "DEAMN",
+            "id" : 559291,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 222412236,
+        "size" : 3066374,
+        "relate_goods" : [
+          {
+            "size" : 3066374,
+            "hash" : "103845BCDB2ACB5623B49B721DF4BB1C",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7665597,
+            "hash" : "CC0FE17B1FE359BBAF96306F59C3B074",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 23581397,
+            "hash" : "3C277D9E2A261D818F93D7A8225F5905",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 984
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "DE2761085A1B71B78D7ABC1EA5E3333B",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "A39D822AE1A344B16BDE48BCF7C32386",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 101,
+        "remark" : "飞走",
+        "media_old_cpy" : 0,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "hash_offset" : {
+            "end_ms" : 60000,
+            "clip_hash" : "63CE79E63D933D542136E464511DC95B",
+            "file_type" : 0,
+            "end_byte" : 960165,
+            "offset_hash" : "0BA9F7C6ADC7668F549706B073295A6D",
+            "start_byte" : 0,
+            "start_ms" : 0
+          },
+          "hash_multitrack" : "AB3243B4368B3850FE16DF506018C54D",
+          "musicpack_advance" : 1,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display" : 0,
+          "cid" : 7347585,
+          "appid_block" : "2906,3124",
+          "cpy_attr0" : 0,
+          "cpy_level" : 1,
+          "cpy_grade" : 5,
+          "display_rate" : 0,
+          "pay_block_tpl" : 1
+        },
+        "audio_group_id" : "9460193",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "6814478064800817152",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 65882106,
+        "timelen" : 194298,
+        "mvtrack" : 3,
+        "sort" : 67,
+        "collecttime" : 1647852581,
+        "privilege" : 10,
+        "audio_id" : 26866724,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Fly Away",
+          "id" : 2698329,
+          "publish" : 1
+        },
+        "hash" : "A39D822AE1A344B16BDE48BCF7C32386",
+        "album_id" : "2698329",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20170605\/20170605193031620189.jpg",
+        "rcflag" : 1,
+        "name" : "TheFatRat、Anjulie - Fly Away",
+        "singerinfo" : [
+          {
+            "name" : "TheFatRat",
+            "id" : 183272,
+            "publish" : 1
+          },
+          {
+            "name" : "Anjulie",
+            "id" : 87478,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 65882106,
+        "size" : 3109440,
+        "relate_goods" : [
+          {
+            "size" : 3109440,
+            "hash" : "A39D822AE1A344B16BDE48BCF7C32386",
+            "level" : 2,
+            "privilege" : 10,
+            "bitrate" : 128
+          },
+          {
+            "size" : 7773238,
+            "hash" : "EDD87851BF8568969CF85F1BCBC2D14B",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 23855436,
+            "hash" : "02DB769BDE6991EAD07F72B1CB3C4092",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 982
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "64A9DFCF2E1B71D13E6CB843A763ABA0",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      },
+      {
+        "download" : [
+          {
+            "status" : 0,
+            "fail_process" : 4,
+            "hash" : "E15AF1DF4F59A0627089C97FFA43B3FC",
+            "pay_type" : 3
+          }
+        ],
+        "fileid" : 95,
+        "remark" : "你好",
+        "media_old_cpy" : 1,
+        "level" : 1,
+        "has_obbligato" : 1,
+        "trans_param" : {
+          "cpy_attr0" : 0,
+          "pay_block_tpl" : 1,
+          "cpy_grade" : 5,
+          "cpy_level" : 1,
+          "hash_multitrack" : "38850EEC53A644E3E52F604B723A32A0",
+          "musicpack_advance" : 0,
+          "display" : 0,
+          "classmap" : {
+            "attr0" : 234881032
+          },
+          "display_rate" : 0,
+          "cid" : 58260576
+        },
+        "audio_group_id" : "1392061",
+        "mvdata" : [
+          {
+            "typ" : 0
+          },
+          {
+            "id" : "4331936439669713920",
+            "typ" : 1
+          }
+        ],
+        "mixsongid" : 29125896,
+        "timelen" : 226000,
+        "mvtrack" : 3,
+        "sort" : 68,
+        "collecttime" : 1647852581,
+        "privilege" : 8,
+        "audio_id" : 8585691,
+        "feetype" : 0,
+        "albuminfo" : {
+          "name" : "Hello",
+          "id" : 645752,
+          "publish" : 1
+        },
+        "hash" : "E15AF1DF4F59A0627089C97FFA43B3FC",
+        "album_id" : "645752",
+        "extname" : "mp3",
+        "bitrate" : 128,
+        "cover" : "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150716\/20150716011507883513.jpg",
+        "rcflag" : 1,
+        "name" : "OMFG - Hello (你好)",
+        "singerinfo" : [
+          {
+            "name" : "OMFG",
+            "id" : 184696,
+            "publish" : 1
+          }
+        ],
+        "add_mixsongid" : 29125896,
+        "size" : 3622238,
+        "relate_goods" : [
+          {
+            "size" : 3622238,
+            "hash" : "E15AF1DF4F59A0627089C97FFA43B3FC",
+            "level" : 2,
+            "privilege" : 8,
+            "bitrate" : 128
+          },
+          {
+            "size" : 9055289,
+            "hash" : "47871493EE6FB6E4AA5BB7CCDA35EA69",
+            "level" : 4,
+            "privilege" : 10,
+            "bitrate" : 320
+          },
+          {
+            "size" : 27136922,
+            "hash" : "52B79BF57A48B4667AD8AC79061D56B0",
+            "level" : 5,
+            "privilege" : 10,
+            "bitrate" : 960
+          },
+          {
+            "size" : 28300296,
+            "hash" : "D91DD0D0E853B9D3239525083A95526B",
+            "level" : 6,
+            "privilege" : 10,
+            "bitrate" : 1001
+          }
+        ],
+        "user_id" : 0,
+        "mvhash" : "0E31564234E92EDA6EA508447298E095",
+        "csong" : 0,
+        "mvtype" : 1,
+        "heat" : 0,
+        "medistype" : "audio",
+        "brief" : ""
+      }
+    ]
+  },
+  "error_code" : 0
+}

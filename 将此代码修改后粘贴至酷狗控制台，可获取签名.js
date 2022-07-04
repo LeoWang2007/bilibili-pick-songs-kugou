@@ -1,0 +1,16 @@
+window.getInterFacePublic(
+    {'listid':31,
+        'type':0,
+        'uid':611069763,
+        'sign':'2b1dd48a725435cda33b4ff199332413',
+        'pagesize':10,
+        'page':2,
+        'mid':'13b3d9526aecb706ff778ab1582fc2ef',
+        'appid':1058,
+        'dfid':'4FIuLV4Z4yHq11CNUd3PWjY3',
+        'chain':'8Ftq763zAV2',
+        'srcappid':2919,
+        'clientver':20000,
+        'clienttime':1656219321188,
+        'uuid':1656219321188,
+        },null,{callback:function (e) {console.log(e)}})

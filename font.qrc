@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="font">
+    <file alias="kingnam">res/jingnan.ttf</file>
+  </qresource>
+</RCC>
